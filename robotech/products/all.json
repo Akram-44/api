@@ -264,5 +264,17 @@
         "isNew": true,
         "brand": "Arduino Shields",
         "quantity": 1
+    },
+    {
+        "_id": 3007,
+        "title": "Thermal Transfer PCB Paper",
+        "price": 10,
+        "previousPrice": 10,
+        "description": "The thermal transfer pcb papers is an efficient and easy tool to manually print your circuit. It enables you to get very fime and tiny details you can not get with other manual methods. The paper size is A4 (21x 29.7cm).",
+        "category": "Boards",
+        "image": "https://store.fut-electronics.com/cdn/shop/products/thermal_pcb_paper.jpg",
+        "isNew": true,
+        "brand": "Thermal & UV Paper",
+        "quantity": 1
     }
 ]
