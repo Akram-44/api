@@ -1,0 +1,87 @@
+[
+    {
+        "_id": 1000,
+        "title": "Neodymium Magnet Disc with hole",
+        "description": "These are small earth magnets . Composed of Neodymium/Iron/Boron (NdFeB), these magnets are strong and make for a great way to attach tools to a metal workbench, hold small children to a fridge, and as a trigger for reed switches. This one small ring can easily hold a piece of paper to your fridge.",
+        "image": "https://store.fut-electronics.com/cdn/shop/products/magnet.jpg",
+        "price": 25.00,
+        "previousPrice": 25.00,
+        "category": "sensor",
+        "isNew": false,
+        "brand": "Magentic & Encoder",
+        "quantity": 1
+    },
+    {
+        "_id": 1001,
+        "title": "Magnetic Encoder – Rotary Position Sensor (AS5600) with Small Ring Magnet",
+        "price": 195.00,
+        "previousPrice": 195.00,
+        "description": "AS5600 is a programmable 12-bit high-resolution contactless magnetic rotary position sensor. AS5600 can work as a magnetic potentiometer or a magnetic encoder with excellent reliability and durability.",
+        "category": "sensor",
+        "image": "https://store.fut-electronics.com/cdn/shop/products/as5600magneticsensor.jpg",
+        "isNew": false,
+        "brand": "Magentic & Encoder",
+        "quantity": 1
+    },
+    {
+        "_id": 1002,
+        "title": "Magnetic Field Viewer Film",
+        "price": 215.00,
+        "previousPrice": 215.00,
+        "description": "Magnetic Field viewer is a micro-encapsulated film which enables the user to view a static magnetic field such as commonly emitted by permanent magnets or dc electromagnets. Simply placing the film directly on the surface of the magnetic material in question can instantly reveal a magnetic field of any shape or pattern.",
+        "category": "sensor",
+        "image": "https://store.fut-electronics.com/cdn/shop/products/magnetic-field-viewer-film.jpg",
+        "isNew": false,
+        "brand": "Magentic & Encoder",
+        "quantity": 1
+    },
+    {
+        "_id": 1003,
+        "title": "Muscle Sensor Kit",
+        "price": 1600.00,
+        "previousPrice": 1600.00,
+        "description": "Measuring muscle activity by detecting its electric potential, referred to as electromyography (EMG), has traditionally been used for medical research.",
+        "image": "https://store.fut-electronics.com/cdn/shop/products/emg-muscle-sensor-kit.jpg",
+        "category": "sensor",
+        "isNew": true,
+        "brand": "Magentic & Encoder",
+        "quantity": 1
+    },
+    {
+        "_id": 1004,
+        "title": "BME680 Environmental Sensor (Pressure -Temperature - Humidity - VOC Gas)",
+        "price": 550.00,
+        "previousPrice": 550.00,
+        "description":"This environmental sensor module is based on BME680 powerful environmental sensor. It can sense temperature, barometric pressure, humidity and VOC (volatile organic compound) gas of the surrounding environment.",
+        "image": "https://store.fut-electronics.com/cdn/shop/files/BME680-enviromental-sensor.jpg",
+        "category": "sensor",
+        "isNew": true,
+        "brand": "Soil",
+        "quantity": 1
+    },
+    {
+        "_id": 1005,
+        "title": "Soil PH Sensor" ,
+        "price": 4900.00,
+        "previousPrice": 4900.00 ,
+        "description": "Soil pH is a measure of the acidity or alkalinity of the soil. The Ph is measured on a scale between 0 to 14. The Ph value lesser than 7 is considered acidic and greater than 7 is considered basic. If the pH scale is 7 then the material is neutral. The most ideal soil conditions for the growth & development of plants are neutral soil. However, some types of plants are still tolerant of soils with slightly acidic Ph.",
+        "image": "https://store.fut-electronics.com/cdn/shop/products/soilphsensorrs485.jpg",
+        "category": "sensor",
+        "isNew": false,
+        "brand": "Soil",
+        "quantity": 1 
+    },
+    {
+        "_id": 1006,
+        "title": "ECG AD8232 Heart Rate (Pulse) Sensor kit",
+        "price": 450.00,
+        "previousPrice": 450.00,
+        "description":"The AD8232 Heart rate (Pulse)  Sensor is a cost-effective board used to measure the electrical activity of the heart. This electrical activity can be charted as an ECG or Electrocardiogram and output as an analog reading. ECGs can be extremely noisy, the AD8232 Single Lead Heart Rate Monitor acts as an op amp to help obtain a clear signal from the PR and QT Intervals easily.",
+        "image": "https://store.fut-electronics.com/cdn/shop/products/ECG_Module_AD8232_Heart_Rate__Pulse__Sensor.jpg",
+        "category": "sensor",
+        "isNew": false,
+        "brand": "Magentic & Encoder",
+        "quantity": 1
+    },
+
+]
