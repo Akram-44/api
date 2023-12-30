@@ -88,18 +88,7 @@
         "title": "74HC00N (Quad 2-Input NAND Gate)",
         "price": 10,
         "previousPrice": 10,
-        "description": `he 74HC00N provides a quad 2-input NAND function.
-
-        Features:-
-        
-        Logic Type:	NAND
-        Output Current:	5.2mA
-        No. of Inputs per gate:	2
-        Supply Voltage Min:	2V
-        Supply Voltage Max:	6V
-        Logic Case Style:	DIP
-        Pin Count:	14
-        `,
+        "description": `74HC00N provides a quad 2-input NAND function.`,
         "category": "ICs",
         "image": "https://store.fut-electronics.com/cdn/shop/products/74HC-IC-14PIN_7120d751-9c95-4ebf-aef9-b358c0c2a536.jpg",
         "isNew": true,
