@@ -36,5 +36,18 @@
         "isNew": false,
         "brand": "GPRS/GSM",
         "quantity": 1
+    },
+     {
+        "_id": 2013,
+        "title": "Infrared Carbon Heating Film (160Watt/m²- 50x25cm)",
+        "price": 330,
+        "previousPrice": 340,
+        "description": "Heating films are a method of electric resistance heating, providing relatively low temperatures (compared to many conventional heating systems) over large areas. The generated heat from the heating film is emitted in the form of infrared radiation. It heats the objects in contact with it or within the radiation range.",
+        "category": "wifi",
+        "image": "https://store.fut-electronics.com/cdn/shop/products/floor-heating-film.webp",
+        "isNew": true,
+        "brand": "Infrared",
+        "quantity": 1
     }
+
 ]
