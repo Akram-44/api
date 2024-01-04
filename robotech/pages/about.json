@@ -3,7 +3,7 @@
     "id": "string",
      "title": "string",
       "description": "string",
-      "link_url": "string"
+      "link_url": "string",
       "link_text": "string"
   }
 ]
