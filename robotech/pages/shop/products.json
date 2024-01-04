@@ -1,0 +1,17 @@
+[
+  {
+    "category": "sensors",
+    "produdcts": [
+      {
+    "title":"Nokia lokia",
+    "id":25145,
+        "image": "",
+        "price": 2200,
+        "previousPrice":2300,
+        "quantity": 1,
+        "brand": "",
+        "description": "no description",
+      }
+    ]
+  }
+]
