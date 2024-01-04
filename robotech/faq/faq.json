@@ -1,6 +1,10 @@
 [
   {
-    "question":"paypal allowed?",
+    "question":"Paypal allowed?",
     "answer": "yes "
+  },
+   {
+    "question":"Card allowed?",
+    "answer": "No "
   }
 ]
