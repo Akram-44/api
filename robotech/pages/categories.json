@@ -2,14 +2,14 @@
   {
     "sensors": [
       {
-        "id": "565",
+        "id": "8/88",
         "title": "Arduno LD3",
         "price": "1200",
         "previousPrice": "1300",
         "description": "this is my dream product",
         "count": "2",
         "image": "https:///.................",
-        "brand": ""
+        "brand": "ff"
       }
     ],
     "ics": [
