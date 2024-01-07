@@ -20,6 +20,16 @@
         "count": 0,
         "image": "",
         "brand": ""
+      },
+      {
+        "id": "adf",
+        "title": "adf",
+        "price": "adf",
+        "previousPrice": 0,
+        "description": "",
+        "count": 0,
+        "image": "",
+        "brand": ""
       }
     ],
     "ics": [
