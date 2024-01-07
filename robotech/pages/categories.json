@@ -8,6 +8,11 @@
       {
         "title": "daf",
         "price": 0
+      },
+      {
+        "title": "adf",
+        "price": 0,
+        "id": "adf"
       }
     ],
     "ics": [
@@ -16,7 +21,7 @@
         "price": 0
       }
     ],
-        "arduino": [
+    "arduino": [
       {
         "title": "adf",
         "price": 0
