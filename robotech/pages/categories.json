@@ -1,26 +1,28 @@
 [
   {
-    "sensors":
-            [
-              {
-                "title":"sensors 1",
-                "price":0
-              },
-              {
-                "title":"sensors 2",
-                "price": 200
-              }
-            ],
-"ics":
-            [
-              {
-                "title":"ics 1",
-                "price":0
-              },
-              {
-                "title":"ics 2",
-                "price": 200
-              }
-            ]
+    "sensors": [
+      {
+        "title": "sensors 1",
+        "price": 0
+      },
+      {
+        "title": "sensors 2",
+        "price": 200
+      },
+      {
+        "title": "daf",
+        "price": "4"
+      }
+    ],
+    "ics": [
+      {
+        "title": "ics 1",
+        "price": 0
+      },
+      {
+        "title": "ics 2",
+        "price": 200
+      }
+    ]
   }
 ]
