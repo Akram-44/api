@@ -1,6 +1,6 @@
 [
   {
-    'sensors':
+    "sensors":
             [
               {
                 "title":"sensors 1",
@@ -11,7 +11,7 @@
                 "price": 200
               }
             ],
-'ics':
+"ics":
             [
               {
                 "title":"ics 1",
