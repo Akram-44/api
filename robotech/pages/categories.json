@@ -1,12 +1,6 @@
 [
   {
-    "sensors": [
-      {
-        "title": "adf",
-        "price": 0,
-        "id": "adf"
-      }
-    ],
+    "sensors": [],
     "ics": [
       {
         "title": "adf",
