@@ -1,23 +1,16 @@
 [
   {
-    "id":212,
+    "id": 212,
     "title": "robotech",
     "description": "new description",
-    "link_url" : "https://",
-    "link_text":"go"
+    "link_url": "https://",
+    "link_text": "go"
   },
-   {
-    "id":111,
-    "title": "part 2",
-    "description": "new description",
-    "link_url" : "https://",
-    "link_text":"go"
-  },
-   {
-    "id":14,
+  {
+    "id": 14,
     "title": "part 3",
     "description": "new description",
-    "link_url" : "https://",
-    "link_text":"go"
+    "link_url": "https://",
+    "link_text": "go"
   }
 ]
