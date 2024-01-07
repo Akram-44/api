@@ -10,6 +10,16 @@
         "title": "adf",
         "price": 0,
         "id": "adf"
+      },
+      {
+        "id": "adf",
+        "title": "adf",
+        "price": "",
+        "previousPrice": 0,
+        "description": "",
+        "count": 0,
+        "image": "",
+        "brand": ""
       }
     ],
     "ics": [
