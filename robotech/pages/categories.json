@@ -42,16 +42,6 @@
         "count": "200",
         "image": "https://example.com/microcontroller-ic.jpg",
         "brand": "TechMaster"
-      },
-      {
-        "id": "fdg",
-        "title": "",
-        "price": "daf",
-        "previousPrice": "0adf",
-        "description": "adf",
-        "count": "0adadff",
-        "image": "adf",
-        "brand": "adf"
       }
     ],
     "boards": [
