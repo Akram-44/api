@@ -8,5 +8,15 @@
     "description": "learn how to make a car from scratch",
     "brand": "Workshop",
     "quantity": 1
+  },
+  {
+    "id": "85",
+    "title": "Start from scratch",
+    "price": "1200",
+    "previousPrice": "1300",
+    "description": "learn how to stand out",
+    "count": "1",
+    "image": "adf",
+    "brand": "Workshop"
   }
 ]
