@@ -30,16 +30,6 @@
         "count": "75",
         "image": "https://example.com/light-sensor.jpg",
         "brand": "LumenTech"
-      },
-      {
-        "id": "re",
-        "title": "adf",
-        "price": "adf",
-        "previousPrice": "0adf",
-        "description": "adf",
-        "count": "0adf",
-        "image": "adf",
-        "brand": "adf"
       }
     ],
     "ics": [
