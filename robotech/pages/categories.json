@@ -2,46 +2,78 @@
   {
     "sensors": [
       {
-        "id": "8/88",
-        "title": "Arduno LD3",
-        "price": "1200",
-        "previousPrice": "1300",
-        "description": "this is my dream product",
-        "count": "2",
-        "image": "https:///.................",
-        "brand": "ff"
+        "id": "1",
+        "title": "Temperature Sensor",
+        "price": "29.99",
+        "previousPrice": "39.99",
+        "description": "High precision temperature sensor for industrial use.",
+        "count": "100",
+        "image": "https://example.com/temperature-sensor.jpg",
+        "brand": "SensorTech"
       },
       {
-        "id": "45",
-        "title": "sfdg",
-        "price": "sfdg",
-        "previousPrice": "0df",
-        "description": "adf",
-        "count": "0adf",
-        "image": "adfs",
-        "brand": "adfs"
+        "id": "2",
+        "title": "Motion Detector",
+        "price": "49.99",
+        "previousPrice": "59.99",
+        "description": "Advanced motion detection sensor with adjustable sensitivity.",
+        "count": "50",
+        "image": "https://example.com/motion-detector.jpg",
+        "brand": "SecureGuard"
       },
       {
-        "id": "adf",
-        "title": "daf",
-        "price": "adf",
-        "previousPrice": "0adf",
-        "description": "adf",
-        "count": "0adf",
-        "image": "adf",
-        "brand": "adf"
+        "id": "3",
+        "title": "Light Sensor",
+        "price": "19.99",
+        "previousPrice": "29.99",
+        "description": "Sensitive light sensor suitable for various applications.",
+        "count": "75",
+        "image": "https://example.com/light-sensor.jpg",
+        "brand": "LumenTech"
       }
     ],
     "ics": [
       {
-        "id": "44",
-        "title": " LD3",
-        "price": "201",
-        "previousPrice": "441",
-        "description": "this is product",
-        "count": "2",
-        "image": "https",
-        "brand": "ff"
+        "id": "101",
+        "title": "Microcontroller IC",
+        "price": "5.99",
+        "previousPrice": "7.99",
+        "description": "Powerful microcontroller IC for embedded systems.",
+        "count": "200",
+        "image": "https://example.com/microcontroller-ic.jpg",
+        "brand": "TechMaster"
+      },
+      {
+        "id": "102",
+        "title": "Digital Signal Processor",
+        "price": "12.99",
+        "previousPrice": "15.99",
+        "description": "DSP for high-performance audio and signal processing.",
+        "count": "100",
+        "image": "https://example.com/dsp.jpg",
+        "brand": "AudioGenius"
+      }
+    ],
+    "boards": [
+      {
+        "id": "101",
+        "title": "Microcontroller IC",
+        "price": "5.99",
+        "previousPrice": "7.99",
+        "description": "Powerful microcontroller IC for embedded systems.",
+        "count": "200",
+        "image": "https://example.com/microcontroller-ic.jpg",
+        "brand": "TechMaster"
+      },
+      {
+        "id": "102",
+        "title": "Digital Signal Processor",
+        "price": "12.99",
+        "previousPrice": "15.99",
+        "description": "DSP for high-performance audio and signal processing.",
+        "count": "100",
+        "image": "https://example.com/dsp.jpg",
+        "brand": "AudioGenius"
       }
     ]
   }
