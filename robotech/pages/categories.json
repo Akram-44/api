@@ -78,6 +78,17 @@
     ],
     "new cat": [],
     "adf": [],
-    "dddddddddd": []
+    "dddddddddd": [
+      {
+        "id": "df",
+        "title": "adfdf",
+        "price": "adf",
+        "previousPrice": "0adf",
+        "description": "adf",
+        "count": "0afa",
+        "image": "adf",
+        "brand": "dfa"
+      }
+    ]
   }
 ]
