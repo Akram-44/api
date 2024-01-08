@@ -30,6 +30,16 @@
         "count": "75",
         "image": "https://example.com/light-sensor.jpg",
         "brand": "LumenTech"
+      },
+      {
+        "id": "744",
+        "title": "Microcontroller 22",
+        "price": "88",
+        "previousPrice": "90",
+        "description": "None",
+        "count": "200",
+        "image": "daf",
+        "brand": "aUDIO"
       }
     ],
     "ics": [
