@@ -64,16 +64,6 @@
         "count": "100",
         "image": "https://example.com/dsp.jpg",
         "brand": "AudioGenius"
-      },
-      {
-        "id": "7555",
-        "title": "Board",
-        "price": "2000",
-        "previousPrice": "2100",
-        "description": "adfadsf",
-        "count": "0adsf",
-        "image": "dafa",
-        "brand": "TV Board"
       }
     ]
   }
