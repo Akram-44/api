@@ -80,6 +80,17 @@
         "brand": "AudioGenius"
       }
     ],
-    "adf": []
+    "adf": [
+      {
+        "id": "ad",
+        "title": "adfadf",
+        "price": "adf",
+        "previousPrice": "0adf",
+        "description": "adsf",
+        "count": "0adf",
+        "image": "adf",
+        "brand": "adf"
+      }
+    ]
   }
 ]
