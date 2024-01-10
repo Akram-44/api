@@ -9,7 +9,8 @@
         "description": "High precision temperature sensor for industrial use.",
         "count": "0",
         "image": "https://example.com/temperature-sensor.jpg",
-        "brand": "SensorTech"
+        "brand": "SensorTech",
+        "categoryName": "sensors",
       },
       {
         "id": "2",
