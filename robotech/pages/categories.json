@@ -7,7 +7,7 @@
         "price": "29.99",
         "previousPrice": "39.99",
         "description": "High precision temperature sensor for industrial use.",
-        "count": "100",
+        "count": "0",
         "image": "https://example.com/temperature-sensor.jpg",
         "brand": "SensorTech"
       },
@@ -17,7 +17,7 @@
         "price": "49.99",
         "previousPrice": "59.99",
         "description": "Advanced motion detection sensor with adjustable sensitivity.",
-        "count": "50",
+        "count": "1",
         "image": "https://example.com/motion-detector.jpg",
         "brand": "SecureGuard"
       },
@@ -27,7 +27,7 @@
         "price": "19.99",
         "previousPrice": "29.99",
         "description": "Sensitive light sensor suitable for various applications.",
-        "count": "75",
+        "count": "2",
         "image": "https://example.com/light-sensor.jpg",
         "brand": "LumenTech"
       }
