@@ -79,18 +79,6 @@
         "image3": "https://example.com/dsp.jpg",
         "brand": "AudioGenius"
       }
-    ],
-    "adf": [
-      {
-        "id": "ad",
-        "title": "adfadf",
-        "price": "adf",
-        "previousPrice": "0adf",
-        "description": "adsf",
-        "count": "0adf",
-        "image": "adf",
-        "brand": "adf"
-      }
     ]
   }
 ]
