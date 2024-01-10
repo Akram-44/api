@@ -5,6 +5,7 @@
     "video": "",
     "title": "How to make a car?",
     "price": 1000,
+    "previousPrice": 1100,
     "studentsEnrolled": 100,
     "description": "learn how to make a car from scratch",
     "enrollmentOpen": true,
