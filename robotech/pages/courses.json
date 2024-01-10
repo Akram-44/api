@@ -2,21 +2,15 @@
   {
     "id": 1,
     "image": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
+    "video": "",
     "title": "How to make a car?",
     "price": 1000,
-    "previousPrice": 1100,
+    "studentsEnrolled": 100,
     "description": "learn how to make a car from scratch",
-    "brand": "Workshop",
-    "quantity": 1
-  },
-  {
-    "id": "85",
-    "title": "Start from scratch",
-    "price": "1200",
-    "previousPrice": "1300",
-    "description": "learn how to stand out",
-    "count": "1",
-    "image": "adf",
-    "brand": "Workshop"
+    "enrollmentOpen": true,
+    "instructor": "Akram Ashraf A.",
+    "duration": "3",
+    "category": "Design",
+    "startDateTime": "2024-02-15"
   }
 ]
