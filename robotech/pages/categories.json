@@ -16,18 +16,6 @@
         "isNew": true
       },
       {
-        "id": "2",
-        "title": "Motion Detector",
-        "price": "49.99",
-        "previousPrice": "59.99",
-        "description": "Advanced motion detection sensor with adjustable sensitivity.",
-        "count": "1",
-        "image1": "https://example.com/motion-detector.jpg",
-        "image2": "https://example.com/motion-detector.jpg",
-        "image3": "https://example.com/motion-detector.jpg",
-        "brand": "SecureGuard"
-      },
-      {
         "id": "3",
         "title": "Light Sensor",
         "price": "19.99",
