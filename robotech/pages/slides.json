@@ -1,11 +1,10 @@
 [
     {
         "id":454,
-    "heading": "Akram ......",
-    "sub_heading":"Ashraf .....",
-    "link_text":"Vist",
-    "link_url":"/3d",
-    "image":"",
-        "description":"Got it"
-  }
+        "heading": "Akram ......",
+        "sub_heading":"Ashraf .....",
+        "link_text":"Vist",
+        "link_url":"/3d",
+        "image":""
+    }
 ]
