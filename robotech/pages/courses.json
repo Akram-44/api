@@ -23,7 +23,8 @@
     "more_details": "aaaaaaaaaaaa",
     "studentEnrolled": "0a",
     "image": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
-    "startDate": "12-25"
+    "startDate": "12-25",
+    "poster": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
   },
   {
     "id": "041",
