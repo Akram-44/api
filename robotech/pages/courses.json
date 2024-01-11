@@ -1,34 +1,5 @@
 [
   {
-    "id": 1,
-    "image1": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
-    "image2": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
-    "image3": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
-    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-    "rate": 3,
-    "title": "How to make a car?",
-    "price": 1000,
-    "previousPrice": 1100,
-    "studentsEnrolled": 100,
-    "description": "learn how to make a car from scratch",
-    "enrollmentOpen": true,
-    "instructor": "Akram Ashraf A.",
-    "instructor_info": "Iam a frontend with 3 years of experience",
-    "duration": "3",
-    "category": "Design",
-    "startDate": "2024-02-15",
-    "level": "Beginner",
-    "index": [
-      "What is Arduino ? ",
-      "How to program electronics?",
-      "How to connect different parts together?",
-      "Real Project, from scratch"
-    ],
-    "last_updated": "1-2024",
-    "more_details": "Tell me more...",
-    "image": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
-  },
-  {
     "id": "32",
     "image1": "",
     "image2": "",
