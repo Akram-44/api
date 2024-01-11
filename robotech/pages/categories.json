@@ -80,6 +80,20 @@
         "brand": "AudioGenius"
       }
     ],
-    "arduino": []
+    "arduino": [
+      {
+        "id": "522",
+        "title": "New arduino ic",
+        "price": "500",
+        "previousPrice": "550",
+        "description": "new arduino product",
+        "count": "5",
+        "image1": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fram-e-shop.com%2Fproduct%2Fkit-arduino-uno%2F&psig=AOvVaw374fUOjuuW-lTwgbXtLOYw&ust=1705062947317000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjf-8-s1YMDFQAAAAAdAAAAABAF",
+        "image2": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fram-e-shop.com%2Fproduct%2Fkit-arduino-uno%2F&psig=AOvVaw374fUOjuuW-lTwgbXtLOYw&ust=1705062947317000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjf-8-s1YMDFQAAAAAdAAAAABAF",
+        "image3": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fram-e-shop.com%2Fproduct%2Fkit-arduino-uno%2F&psig=AOvVaw374fUOjuuW-lTwgbXtLOYw&ust=1705062947317000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjf-8-s1YMDFQAAAAAdAAAAABAF",
+        "brand": "Electroinc",
+        "isNew": false
+      }
+    ]
   }
 ]
