@@ -1,6 +1,20 @@
 [
   {
     "a": [],
-    "ics": []
+    "ics": [
+      {
+        "id": "546",
+        "title": "adf",
+        "price": "adfad",
+        "previousPrice": "3",
+        "description": "adfadf",
+        "count": "22",
+        "image1": "dsf",
+        "image2": "adf",
+        "image3": "adf",
+        "brand": "adf",
+        "isNew": false
+      }
+    ]
   }
 ]
