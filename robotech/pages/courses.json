@@ -16,7 +16,7 @@
     "instructor_info":"Iam a frontend with 3 years of experience",
     "duration": "3",
     "category": "Design",
-    "startDateTime": "2024-02-15",
+    "startDate": "2024-02-15",
     "level" : "Beginner",
     "index": ["What is Arduino ? ","How to program electronics?","How to connect different parts together?","Real Project, from scratch"],
     "last_updated": "1-2024",
