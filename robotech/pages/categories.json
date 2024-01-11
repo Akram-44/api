@@ -56,18 +56,6 @@
     ],
     "boards": [
       {
-        "id": "101",
-        "title": "Microcontroller IC",
-        "price": "5.99",
-        "previousPrice": "7.99",
-        "description": "Powerful microcontroller IC for embedded systems.",
-        "count": "200",
-        "image1": "https://example.com/microcontroller-ic.jpg",
-        "image2": "https://example.com/microcontroller-ic.jpg",
-        "image3": "https://example.com/microcontroller-ic.jpg",
-        "brand": "TechMaster"
-      },
-      {
         "id": "102",
         "title": "Digital Signal Processor",
         "price": "12.99",
