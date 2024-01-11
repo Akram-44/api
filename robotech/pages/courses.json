@@ -4,7 +4,7 @@
     "image1": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
     "image2": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
     "image3": "https://nhyirapremiumuniversity.com/wp-content/uploads/2018/11/course.png",
-    "video": "",
+    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
     "rate": 3,
     "title": "How to make a car?",
     "price": 1000,
@@ -25,7 +25,8 @@
       "Real Project, from scratch"
     ],
     "last_updated": "1-2024",
-    "more_details": "Tell me more..."
+    "more_details": "Tell me more...",
+    "image": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
   },
   {
     "id": "32",
