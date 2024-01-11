@@ -16,20 +16,6 @@
         "isNew": true
       }
     ],
-    "arduino": [
-      {
-        "id": "522",
-        "title": "New arduino ic",
-        "price": "500",
-        "previousPrice": "550",
-        "description": "new arduino product",
-        "count": "5",
-        "image1": "https://www.freeiconspng.com/thumbs/arduino-icon/arduino-icon-0.png",
-        "image2": "https://www.freeiconspng.com/thumbs/arduino-icon/arduino-icon-7.png",
-        "image3": "https://www.shutterstock.com/image-vector/simple-arduino-uno-board-isometric-260nw-1741734530.jpg",
-        "brand": "Electroinc",
-        "isNew": false
-      }
-    ]
+    "arduino": []
   }
 ]
