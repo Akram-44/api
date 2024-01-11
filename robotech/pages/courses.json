@@ -52,5 +52,30 @@
     "studentEnrolled": "0a",
     "image": "adf",
     "startDate": "12-25"
+  },
+  {
+    "id": "041",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "rate": "4",
+    "title": "new course",
+    "price": "2500",
+    "previousPrice": "2600",
+    "studentsEnrolled": "44",
+    "description": "this is description",
+    "enrollmentOpen": "true",
+    "instructor": "akram",
+    "instructor_info": "web developer",
+    "duration": "2",
+    "category": "development",
+    "startDateTime": "",
+    "level": "medium",
+    "index": "start at | end at",
+    "last_updated": "2025",
+    "more_details": "adfadf",
+    "image": "agagfg",
+    "startDate": "12-2025"
   }
 ]
