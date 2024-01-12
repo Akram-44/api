@@ -14,20 +14,6 @@
         "brand": "Electronics",
         "isNew": false,
         "quantity": 1
-      },
-      {
-        "id": "474",
-        "title": "Solder Remover pump (Solder Vacuum)",
-        "price": "95.00",
-        "previousPrice": "100.00",
-        "description": "The Solder Vacuum (pump) is tool for solder rework. It allows you to pull the molten solder out of a connection. To use it you simply depress the plunger, heat up your solder, place the nozzle over the solder you want to remove and finally just push the button. The piston pops up and the solder disappears.",
-        "count": "2",
-        "image1": "https://store.fut-electronics.com/cdn/shop/products/1Pcs-Aluminum-Solder-Desoldering-Pump-Remover-Gun-font-b-Sucker-b-font-Vacuum-Suction-font-b.jpg?v=1484589184",
-        "image2": "",
-        "image3": "",
-        "brand": "Electronics",
-        "isNew": false,
-        "quantity": 1
       }
     ]
   }
