@@ -2,7 +2,7 @@
   {
     "id": "1",
     "heading": "Robotech space works",
-    "sub_heading": "<table className=\"min-w-full border border-gray-300 text-sm\">   <thead>     <tr className=\"bg-zinc-800 text-white\">       <th className=\"border px-4 py-2\">Id</th>       <th className=\"border px-4 py-2\">Heading</th>       <th className=\"border px-4 py-2\">Sub Heading</th>       <th className=\"border px-4 py-2\">Img</th>       <th className=\"border px-4 py-2\">Link</th>       <th className=\"border px-4 py-2\">Actions</th>     </tr>   </thead>   <tbody>     {jsonArray.map((item, index) => (       <tr key={index} className=\"hover:bg-slate-100\">         <td className=\"border px-4 py-2\">{item.id}</td>         <td className=\"border px-4 py-2\">{item.heading}</td>         <td className=\"border px-4 py-2\">{item.sub_heading}</td>         <td className=\"border px-4 py-2\">           <img width={50} height={50} src={item.image} alt=\"Item\" />         </td>         <td className=\"border px-4 py-2\">           <Link href={item.link_url}>{item.link_text}</Link>         </td>         <td className=\"border px-2 py-2\">           <button             className=\"mr-1\"             onClick={() => handleEditClick(index)}           >             <Edit size={16} />           </button>           <button             className=\"mr-1\"             onClick={() => handleRemoveItem(index)}           >             <Trash size={16} />           </button>         </td>       </tr>     ))}   </tbody> </table>",
+    "sub_heading": "sdf",
     "image": "https://store.fut-electronics.com/cdn/shop/products/soldering-tip-i-series-needle-shape.jpg?v=1649102550",
     "link_text": "vist print",
     "link_url": "/print"
