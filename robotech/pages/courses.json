@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "1",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "rate": "5",
+    "title": "Introduction to Electronics",
+    "price": "1000",
+    "previousPrice": "1100",
+    "studentsEnrolled": "2500",
+    "description": "Join our foundational course in electronics to kickstart your journey into the world of circuits and components. Learn the basics of electronic theory, circuit design, and hands-on practical exercises.",
+    "enrollmentOpen": "true",
+    "instructor": "Dr. Sarah Johnson",
+    "instructor_info": "3 years in educational field",
+    "duration": "8",
+    "category": "Electronics",
+    "startDateTime": "",
+    "level": "Beginner",
+    "index": "Introduction to Electronics-Circuit Fundamentals-Electronic Components-Circuit Design-Digital Electronics-Analog Electronics-Microcontrollers-Final Project",
+    "last_updated": "1-2024",
+    "more_details": "Join our foundational course in electronics to kickstart your journey into the world of circuits and components. Learn the basics of electronic theory, circuit design, and hands-on practical exercises.",
+    "startDate": "2-2024",
+    "poster": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
+  }
+]
