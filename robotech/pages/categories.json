@@ -1,20 +1,5 @@
 [
   {
-    "soldering": [
-      {
-        "id": "2584",
-        "title": "Soldering Iron Tip 40W (Conical B-Series for YIHUA947)",
-        "price": " 35.00",
-        "previousPrice": "40.00",
-        "description": "The B-series tips or conical shape are so named because of their pointed cone-like shape. Since it has a rounded tip, soldering can be done from any angle, and this tip is used for general purposes.",
-        "count": "15",
-        "image1": "https://store.fut-electronics.com/cdn/shop/products/soldering-tip-b-series--conical-shape.jpg?v=1649001939",
-        "image2": "https://store.fut-electronics.com/cdn/shop/products/soldering-tip-i-series-needle-shape.jpg?v=1649102550",
-        "image3": "",
-        "brand": "Electronics",
-        "isNew": false,
-        "quantity": 1
-      }
-    ]
+    "soldering": []
   }
 ]
