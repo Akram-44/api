@@ -1,9 +1,6 @@
 [
   {
     "id": "1",
-    "image1": "",
-    "image2": "",
-    "image3": "",
     "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "rate": "5",
     "title": "Introduction to Electronics",
