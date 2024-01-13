@@ -52,7 +52,7 @@
     "previousPrice": "1000",
     "studentsEnrolled": "2000",
     "description": "This is an example course description for the third course.",
-    "enrollmentOpen": "false",
+    "enrollmentOpen": "open",
     "instructor": "Prof. Jane Smith",
     "instructor_info": "2 years in educational field",
     "duration": "10",
