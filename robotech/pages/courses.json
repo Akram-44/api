@@ -44,27 +44,5 @@
     "startDate": "3-2024",
     "poster": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
     "enrollmentLink": "adfadf"
-  },
-  {
-    "id": "3",
-    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "rate": "4",
-    "title": "Example Course 3",
-    "price": "900",
-    "previousPrice": "1000",
-    "studentsEnrolled": "2000",
-    "description": "This is an example course description for the third course.",
-    "enrollmentOpen": "open",
-    "instructor": "Prof. Jane Smith",
-    "instructor_info": "2 years in educational field",
-    "duration": "10",
-    "category": "Another Category",
-    "startDateTime": "",
-    "level": "Advanced",
-    "index": "ModuleA|ModuleB|ModuleC|ModuleD|ModuleE|ModuleF|ModuleG|Final Project",
-    "last_updated": "1-2024",
-    "more_details": "Additional details for the third course.",
-    "startDate": "4-2024",
-    "poster": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg"
   }
 ]
