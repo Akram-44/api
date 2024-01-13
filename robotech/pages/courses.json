@@ -66,29 +66,5 @@
     "more_details": "Additional details for the third course.",
     "startDate": "4-2024",
     "poster": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg"
-  },
-  {
-    "id": "23",
-    "image": "",
-    "video": "adfadfadf",
-    "rate": "23",
-    "title": "adfadfadf",
-    "price": "0af",
-    "previousPrice": "2",
-    "studentsEnrolled": "23",
-    "description": "dfadf",
-    "enrollmentOpen": "close",
-    "enrollmentLink": "adfadf",
-    "instructor": "afadf",
-    "instructor_info": "dfad",
-    "duration": "adf",
-    "category": "adfadf",
-    "startDateTime": "",
-    "level": "fadfad",
-    "index": "afaf",
-    "last_updated": "adf",
-    "more_details": "afadf",
-    "poster": "dfadf",
-    "startDate": "adfaf"
   }
 ]
