@@ -8,7 +8,7 @@
     "previousPrice": "1100",
     "studentsEnrolled": "2500",
     "description": "Join our foundational course in electronics to kickstart your journey into the world of circuits and components. Learn the basics of electronic theory, circuit design, and hands-on practical exercises.",
-    "enrollmentOpen": "true",
+    "enrollmentOpen": "close",
     "instructor": "Dr. Sarah Johnson",
     "instructor_info": "3 years in educational field",
     "duration": "8",
@@ -19,7 +19,8 @@
     "last_updated": "1-2024",
     "more_details": "Join our foundational course in electronics to kickstart your journey into the world of circuits and components. Learn the basics of electronic theory, circuit design, and hands-on practical exercises.",
     "startDate": "2-2024",
-    "poster": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
+    "poster": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+    "enrollmentLink": "adfadf"
   },
   {
     "id": "2",
