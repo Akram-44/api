@@ -30,7 +30,7 @@
     "previousPrice": "1300",
     "studentsEnrolled": "1800",
     "description": "This is an example course description for the second course.",
-    "enrollmentOpen": "true",
+    "enrollmentOpen": "open",
     "instructor": "Prof. John Doe",
     "instructor_info": "5 years in educational field",
     "duration": "6",
@@ -41,7 +41,8 @@
     "last_updated": "1-2024",
     "more_details": "Additional details for the second course.",
     "startDate": "3-2024",
-    "poster": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg"
+    "poster": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
+    "enrollmentLink": "adfadf"
   },
   {
     "id": "3",
