@@ -17,21 +17,6 @@
         "category": "soldering"
       },
       {
-        "id": "257",
-        "title": "Soldering Station Pro",
-        "price": "200",
-        "previousPrice": "240",
-        "description": "High-performance soldering station with adjustable temperature control. Ideal for professional electronic soldering tasks.",
-        "count": "3",
-        "image1": "https://example.com/soldering-station-pro.jpg",
-        "image2": "https://example.com/soldering-station-pro.jpg",
-        "image3": "https://example.com/soldering-station-pro.jpg",
-        "brand": "electronics",
-        "isNew": false,
-        "quantity": 1,
-        "category": "soldering"
-      },
-      {
         "id": "258",
         "title": "Soldering Iron Stand",
         "price": "20",
