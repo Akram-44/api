@@ -24,5 +24,17 @@
     "image1": "https://placehold.jp/400x400.png",
     "image2": "https://placehold.jp/400x400.png",
     "image3": "https://placehold.jp/400x400.png"
+  },
+  {
+    "id": "3",
+    "title": "Prototype Printing\t",
+    "price": "1000\t",
+    "previousPrice": "1100",
+    "description": "Prototypel printing...\t",
+    "count": "16",
+    "image1": "https://placehold.jp/400x400.png",
+    "image2": "https://placehold.jp/400x400.png",
+    "image3": "https://placehold.jp/400x400.png",
+    "brand": "Prototype"
   }
 ]
