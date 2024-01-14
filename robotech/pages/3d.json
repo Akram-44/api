@@ -8,5 +8,15 @@
     "count": "2",
     "image": "https://placehold.jp/500x400.png",
     "brand": "Print services"
+  },
+  {
+    "id": "2",
+    "title": "Prototype Printing",
+    "price": "1000",
+    "previousPrice": "1100",
+    "description": "Prototypel printing...",
+    "count": "15",
+    "image": "https://placehold.jp/500x400.png",
+    "brand": "Prototype"
   }
 ]
