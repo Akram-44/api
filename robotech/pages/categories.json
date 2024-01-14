@@ -79,6 +79,22 @@
         "category": "new cate"
       }
     ],
-    "merenda": []
+    "merenda": [
+      {
+        "id": "4",
+        "title": "dfgdfg",
+        "price": "34",
+        "previousPrice": "034",
+        "description": "fdgfdg",
+        "count": "34",
+        "image1": "dgfd",
+        "image2": "sdf",
+        "image3": "sdfsdf",
+        "brand": "fgfg",
+        "isNew": false,
+        "quantity": 1,
+        "category": "merenda"
+      }
+    ]
   }
 ]
