@@ -17,21 +17,6 @@
         "category": "soldering"
       },
       {
-        "id": "256",
-        "title": "Precision Soldering Kit",
-        "price": "150",
-        "previousPrice": "180",
-        "description": "A complete soldering kit for precision work. Includes various tips, soldering iron, and accessories for professional soldering tasks.",
-        "count": "8",
-        "image1": "https://example.com/precision-soldering-kit.jpg",
-        "image2": "https://example.com/precision-soldering-kit.jpg",
-        "image3": "https://example.com/precision-soldering-kit.jpg",
-        "brand": "electronics",
-        "isNew": true,
-        "quantity": 1,
-        "category": "soldering"
-      },
-      {
         "id": "257",
         "title": "Soldering Station Pro",
         "price": "200",
