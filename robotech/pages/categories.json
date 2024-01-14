@@ -15,21 +15,6 @@
         "isNew": false,
         "quantity": 1,
         "category": "soldering"
-      },
-      {
-        "id": "258",
-        "title": "Soldering Iron Stand",
-        "price": "20",
-        "previousPrice": "25",
-        "description": "Durable soldering iron stand with sponge for cleaning. Keeps your soldering iron secure and ready for use.",
-        "count": "15",
-        "image1": "https://example.com/soldering-iron-stand.jpg",
-        "image2": "https://example.com/soldering-iron-stand.jpg",
-        "image3": "https://example.com/soldering-iron-stand.jpg",
-        "brand": "electronics",
-        "isNew": true,
-        "quantity": 1,
-        "category": "soldering"
       }
     ]
   },
