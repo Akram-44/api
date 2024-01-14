@@ -22,5 +22,13 @@
     "image": "https://placehold.jp/300x300.png",
     "link_text": "courses",
     "link_url": "/courses"
+  },
+  {
+    "id": "4",
+    "heading": "SLIDE 4",
+    "sub_heading": "SUB HeaDDING\t",
+    "image": "https://placehold.jp/300x300.png",
+    "link_text": "wishlist",
+    "link_url": "/wishlist"
   }
 ]
