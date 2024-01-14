@@ -208,6 +208,22 @@
         "category": "sensors"
       }
     ],
-    "asdqw": []
+    "asdqw": [
+      {
+        "id": "23",
+        "title": "DASAFADF",
+        "price": "25",
+        "previousPrice": "10",
+        "description": "DSFADSFADFADF",
+        "count": "05",
+        "image1": "ADFADF",
+        "image2": "ADFADFAD",
+        "image3": "FADFADSFA",
+        "brand": "ADFADF",
+        "isNew": false,
+        "quantity": 1,
+        "category": "asdqw"
+      }
+    ]
   }
 ]
