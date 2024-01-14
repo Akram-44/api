@@ -61,23 +61,6 @@
         "quantity": 1,
         "category": "ics"
       }
-    ],
-    "nwe cate": [
-      {
-        "id": "43",
-        "title": "dfdfdsf",
-        "price": "20",
-        "previousPrice": "25",
-        "description": "adfadf",
-        "count": "5",
-        "image1": "dfa",
-        "image2": "dfdf",
-        "image3": "adfdf",
-        "brand": "adff",
-        "isNew": false,
-        "quantity": 1,
-        "category": "nwe cate"
-      }
     ]
   }
 ]
