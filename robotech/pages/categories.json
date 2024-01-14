@@ -1,23 +1,5 @@
 [
-  {
-    "soldering": [
-      {
-        "id": "255",
-        "title": "The B-series",
-        "price": "100",
-        "previousPrice": "120",
-        "description": "The B-series tips or conical shape are so named because of their pointed cone-like shape. Since it has a rounded tip, soldering can be done from any angle, and this tip is used for general purposes.",
-        "count": "5",
-        "image1": "https://store.fut-electronics.com/cdn/shop/products/soldering-tip-b-series--conical-shape.jpg?v=1649001939",
-        "image2": "https://store.fut-electronics.com/cdn/shop/products/soldering-tip-b-series--conical-shape.jpg?v=1649001939",
-        "image3": "https://store.fut-electronics.com/cdn/shop/products/soldering-tip-b-series--conical-shape.jpg?v=1649001939",
-        "brand": "electronics",
-        "isNew": false,
-        "quantity": 1,
-        "category": "soldering"
-      }
-    ]
-  },
+  {},
   {
     "ics": [
       {
