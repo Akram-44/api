@@ -63,7 +63,23 @@
         "category": "ics"
       }
     ],
-    "new cate": []
+    "new cate": [
+      {
+        "id": "22",
+        "title": "dddd",
+        "price": "2225",
+        "previousPrice": "10000",
+        "description": "4333333adsfa",
+        "count": "5",
+        "image1": "34",
+        "image2": "adf",
+        "image3": "asfdadf",
+        "brand": "34",
+        "isNew": false,
+        "quantity": 1,
+        "category": "new cate"
+      }
+    ]
   },
   {
     "boards": [
