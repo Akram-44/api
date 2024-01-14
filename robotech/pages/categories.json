@@ -61,38 +61,6 @@
         "quantity": 1,
         "category": "ics"
       }
-    ],
-    "merenda": [
-      {
-        "id": "4",
-        "title": "dfgdfg",
-        "price": "34",
-        "previousPrice": "034",
-        "description": "fdgfdg",
-        "count": "34",
-        "image1": "dgfd",
-        "image2": "sdf",
-        "image3": "sdfsdf",
-        "brand": "fgfg",
-        "isNew": false,
-        "quantity": 1,
-        "category": "merenda"
-      },
-      {
-        "id": "34",
-        "title": "sdfgfg",
-        "price": "34",
-        "previousPrice": "34",
-        "description": "sdfgsfg",
-        "count": "34",
-        "image1": "sfdggf",
-        "image2": "gsfdgfg",
-        "image3": "sfdgsfd",
-        "brand": "fdgsd",
-        "isNew": false,
-        "quantity": 1,
-        "category": "merenda"
-      }
     ]
   }
 ]
