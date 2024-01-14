@@ -1,21 +1,3 @@
 [
-  {
-    "mohaemd": [
-      {
-        "id": "34",
-        "title": "fdgfg",
-        "price": "34",
-        "previousPrice": "34",
-        "description": "fdsgs",
-        "count": "3",
-        "image1": "sfdg",
-        "image2": "dfgfsd",
-        "image3": "gsfdg",
-        "brand": "gsfdgsfdg",
-        "isNew": false,
-        "quantity": 1,
-        "category": "mohaemd"
-      }
-    ]
-  }
+  {}
 ]
