@@ -149,9 +149,7 @@
         "title": "Raspberry Pi 4",
         "price": "60",
         "previousPrice": "70",
-        "description": "Powerful single-board computer for various
-
- applications. Comes with multiple USB ports, HDMI output, and GPIO pins for easy interfacing.",
+        "description": "Powerful single-board computer for various applications. Comes with multiple USB ports, HDMI output, and GPIO pins for easy interfacing.",
         "count": "12",
         "image1": "https://example.com/raspberry-pi-4.jpg",
         "image2": "https://example.com/raspberry-pi-4.jpg",
