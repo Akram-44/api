@@ -1,12 +1,5 @@
 [
   {
-    "id": 1,
-    "title": "3D Print Services",
-    "description": "Explore our cutting-edge 3D printing services, offering high-quality and precision prints for a variety of applications.",
-    "link_text": "Learn More",
-    "link_url": "/3d"
-  },
-  {
     "id": 2,
     "title": "Electronic Components Store",
     "description": "Discover a wide range of electronic components in our online store. From resistors to microcontrollers, we have all your electronic needs covered.",
