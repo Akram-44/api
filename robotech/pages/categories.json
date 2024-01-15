@@ -49,6 +49,22 @@
         "category": "gsm & gprs"
       }
     ],
-    "bluetooth": []
+    "bluetooth": [
+      {
+        "id": "78",
+        "title": "Serial Bluetooth Module (Master/Slave)",
+        "price": "240.00",
+        "previousPrice": "250.00",
+        "description": "This serial bluetooth module can work as either master or slave. This module also includes the base board, not only the core board, most functions are pre-set, so only the serial port communication is available but it’s more easy to use. It can be used also with arduino or Microcontroller.",
+        "count": "6",
+        "image1": "https://store.fut-electronics.com/cdn/shop/products/bluetooth.jpg?v=1417534702",
+        "image2": "",
+        "image3": "",
+        "brand": "Wireless",
+        "isNew": false,
+        "quantity": 1,
+        "category": "bluetooth"
+      }
+    ]
   }
 ]
