@@ -32,6 +32,22 @@
         "category": "ics"
       }
     ],
-    "gsm & gprs": []
+    "gsm & gprs": [
+      {
+        "id": "100",
+        "title": "SIM800L GPRS Moduledule",
+        "price": "240.00",
+        "previousPrice": "240.00",
+        "description": "This GSM / GPRS module is based on SIM800L by SIMCOM. It supports quad-band GSM/GPRS network including SIM800L GPRS and SMS message data. The SIM800L GSM / GPRS board features compact size and low current consumption. With power saving technique, the current consumption is as low as 1mA in sleep mode. It communicates with microcontroller via UART port, supports command. It's operating voltage is 3.7 ~ 4.2V, peak current is 1A.",
+        "count": "3",
+        "image1": "https://store.fut-electronics.com/cdn/shop/products/sim800.jpg?v=1640340815",
+        "image2": "https://store.fut-electronics.com/cdn/shop/products/SIM800L_back.jpg?v=1640340815",
+        "image3": "",
+        "brand": "Wireless",
+        "isNew": false,
+        "quantity": 1,
+        "category": "gsm & gprs"
+      }
+    ]
   }
 ]
