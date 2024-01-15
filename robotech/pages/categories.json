@@ -47,6 +47,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "gsm & gprs"
+      },
+      {
+        "id": "78",
+        "title": "FM Radio Receiver Module with Antenna (TEA5767 )",
+        "price": "640.00",
+        "previousPrice": "650.00",
+        "description": "This FM Radio module is a radio broadcast receiver module that is based on the TEA5767  IC product from Philips. The module is equipped with adjustable radio antenna and can be connected to speaker.  It uses frequency modulation or FM signal with frequency range from 70 MHZ to 108 MHZ where you can tune the radio using software to select the receiving frequency.",
+        "count": "2",
+        "image1": "https://store.fut-electronics.com/cdn/shop/products/TEA5767_fm_radio_module.jpg?v=1499483796",
+        "image2": "https://cdn.shopify.com/s/files/1/0672/9409/files/Modul-radio_large.jpg?v=1499483932",
+        "image3": "",
+        "brand": "Wireless",
+        "isNew": false,
+        "quantity": 1,
+        "category": "gsm & gprs"
       }
     ],
     "bluetooth": [
