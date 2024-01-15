@@ -1,12 +1,5 @@
 [
   {
-    "id": 2,
-    "title": "Electronic Components Store",
-    "description": "Discover a wide range of electronic components in our online store. From resistors to microcontrollers, we have all your electronic needs covered.",
-    "link_text": "Shop Now",
-    "link_url": "/"
-  },
-  {
     "id": 3,
     "title": "Educational Courses",
     "description": "Enrich your knowledge with our specialized courses. Whether you're a beginner or an expert, we offer courses to enhance your skills in various fields.",
