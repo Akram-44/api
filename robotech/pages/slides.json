@@ -6,5 +6,13 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBkyfN93va87iknqdH1CeUdQQkUhJVJbhJIw&usqp=CAU",
     "link_text": "Shop now",
     "link_url": "/"
+  },
+  {
+    "id": "2",
+    "heading": "Discover the Future: High-Tech Electronics for Today's Demands",
+    "sub_heading": "Unleash Possibilities: Dive into Our Electronic Ecosystem",
+    "image": "https://i.pinimg.com/736x/8b/b4/51/8bb451721b155c9e78d13ef7315734a0.jpg",
+    "link_text": "Print",
+    "link_url": "/3d"
   }
 ]
