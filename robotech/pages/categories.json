@@ -98,6 +98,22 @@
         "category": "ethernet"
       }
     ],
-    "vibrations": []
+    "vibrations": [
+      {
+        "id": "95",
+        "title": "10 DOF IMU (MPU6050+HMC5883L+BMP085)",
+        "price": "430.00",
+        "previousPrice": "450.00",
+        "description": "This board combines 5 sensors, It includes MPU605 (3 axis Gyro and 3 axis Accelerometer), HMC5883L (3-Axis Digital Compass) and BMP085 (Barometric Pressure Sensor). They are all accessible via I2C bus.  Voltage supply range from 3.3 to 5V, it can be used with arduino or micro-controller. The IMU sensor can be used in wide applications including direction control, angle measurements.",
+        "count": "1",
+        "image1": "https://store.fut-electronics.com/cdn/shop/products/imu_10dof_45129be2-d221-4713-86ad-ec685d26fbc7.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "Sensors",
+        "isNew": false,
+        "quantity": 1,
+        "category": "vibrations"
+      }
+    ]
   }
 ]
