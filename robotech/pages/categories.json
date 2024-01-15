@@ -65,6 +65,7 @@
         "quantity": 1,
         "category": "bluetooth"
       }
-    ]
+    ],
+    "ethernet": []
   }
 ]
