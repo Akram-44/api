@@ -10,5 +10,17 @@
     "image2": "",
     "image3": "",
     "brand": "3d print"
+  },
+  {
+    "id": "2",
+    "title": " i.materialise 3D Printing",
+    "price": "200",
+    "previousPrice": "200",
+    "description": "i.materialise provides a user-friendly platform for 3D printing services. They support a variety of materials, such as plastics, metals, and resins. The service is suitable for both professional and hobbyist projects.",
+    "count": "2",
+    "image1": "https://2018media.idtech.com/2019-07/3d-printer-gif.gif?ad45c453e0",
+    "image2": "",
+    "image3": "",
+    "brand": "3d print"
   }
 ]
