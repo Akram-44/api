@@ -66,6 +66,22 @@
         "category": "bluetooth"
       }
     ],
-    "ethernet": []
+    "ethernet": [
+      {
+        "id": "788",
+        "title": "Ethernet Module (ENC28J60) For Arduino / Microcontroller",
+        "price": "360",
+        "previousPrice": "360",
+        "description": "This ethernet board is a simple way to give your Arduino or other electronics project a network connection.  Works with all Arduino boards, including UNO, MEGA, and Nano. It has a 25MHz crystal onboard  With this Ethernet Shield, your Arduino board can be used to connect to internet Genuine Microchip's ENC28J60 SPI ethernet controller and HR911102A RJ45 socket Open-source TCP/IP protocol stack as an Arduino library. Web client application to use Arduino as a distributed network sensor",
+        "count": "7",
+        "image1": "https://store.fut-electronics.com/cdn/shop/products/ethernet_module_fc2f6d27-4dc1-4ce8-a4e9-650c8f6a05a1.jpg?v=1435578856",
+        "image2": "",
+        "image3": "",
+        "brand": "Wireless",
+        "isNew": false,
+        "quantity": 1,
+        "category": "ethernet"
+      }
+    ]
   }
 ]
