@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "23",
+    "poster": "ad",
+    "video": "dfad",
+    "rate": "0adf",
+    "title": "dsfadsf",
+    "price": "0adfads",
+    "previousPrice": "adsf",
+    "studentsEnrolled": "0fadf",
+    "description": "fadsf",
+    "enrollmentOpen": "close",
+    "enrollmentLink": "adfa",
+    "instructor": "adf",
+    "instructor_info": "fa",
+    "duration": "0adfads",
+    "category": "adf",
+    "startDateTime": "",
+    "level": "dfadf",
+    "index": "adf",
+    "last_updated": "adf",
+    "more_details": "adf",
+    "startDate": "adsf"
+  }
+]
