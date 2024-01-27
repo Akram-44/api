@@ -30,24 +30,6 @@
         "isNew": false,
         "quantity": 1,
         "category": "ics"
-      },
-      {
-        "id": "42",
-        "title": "dfafd",
-        "price": "23",
-        "previousPrice": "4",
-        "description": "sdfasfd",
-        "count": "42",
-        "image1": "https://store.fut-electronics.com/cdn/shop/products/IC-SOCKET-Base-14-PIN-DIP.jpg?v=1655900711",
-        "image2": "https://store.fut-electronics.com/cdn/shop/products/images---2019-10-22T114629.095.jpg",
-        "image3": "https://store.fut-electronics.com/cdn/shop/products/IC-SOCKET-Base-14-PIN-DIP.jpg?v=1655900711",
-        "brand": "dfa",
-        "isNew": false,
-        "quantity": 1,
-        "category": "ics",
-        "image4": "blob:https://scaling-broccoli-4jj4r7rjgg69357j9-3000.app.github.dev/be5b49da-541e-488c-b292-cf76e7a0bf9c",
-        "image5": "blob:https://scaling-broccoli-4jj4r7rjgg69357j9-3000.app.github.dev/42e487e7-9297-4ce2-b3cc-2321b5c5707a",
-        "image6": "blob:https://scaling-broccoli-4jj4r7rjgg69357j9-3000.app.github.dev/e6bc3397-6755-41e6-b5b2-a9e8f5a17ae9"
       }
     ],
     "gsm & gprs": [
