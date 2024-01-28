@@ -869,6 +869,22 @@
         "category": "sensors"
       }
     ],
-    "relay modules": []
+    "relay modules": [
+      {
+        "id": "54",
+        "title": "Relay (SRD-05VDC-Sl-C)",
+        "price": "15",
+        "previousPrice": "0",
+        "description": "Relay (SRD-05VDC-Sl-C)",
+        "count": "20",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/SRD-05VDC-Sl-C.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "Relay (SRD-05VDC-Sl-C)",
+        "isNew": false,
+        "quantity": 1,
+        "category": "relay modules"
+      }
+    ]
   }
 ]
