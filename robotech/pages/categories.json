@@ -503,6 +503,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "displays ( lcd & 7-seg & led )"
+      },
+      {
+        "id": "31",
+        "title": "LCD1602 IIC/I2C Blue Backlight",
+        "price": "100",
+        "previousPrice": "0",
+        "description": "LCD1602 IIC/I2C Blue Backlight",
+        "count": "5",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/LCD1602-I2C-Blue-Backlight.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "LCD1602 IIC/I2C Blue Backlight",
+        "isNew": false,
+        "quantity": 1,
+        "category": "displays ( lcd & 7-seg & led )"
       }
     ]
   }
