@@ -899,6 +899,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "relay modules"
+      },
+      {
+        "id": "56",
+        "title": "Relay Module 1 Channel (5Vdc)",
+        "price": "50",
+        "previousPrice": "0",
+        "description": "Relay Module 1 Channel (5Vdc)",
+        "count": "5",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/Relay-Module-1-Channel-5Vdc.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "Relay Module 1 Channel (5Vdc)",
+        "isNew": false,
+        "quantity": 1,
+        "category": "relay modules"
       }
     ]
   }
