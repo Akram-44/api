@@ -595,6 +595,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "wires & cables"
+      },
+      {
+        "id": "37",
+        "title": "Micro USB Cable",
+        "price": "35",
+        "previousPrice": "0",
+        "description": "Micro USB Cable",
+        "count": "20",
+        "image1": "https://free-electronic.com/wp-content/uploads/2023/05/Micro20USB20Cable.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "Micro USB Cable",
+        "isNew": false,
+        "quantity": 1,
+        "category": "wires & cables"
       }
     ]
   }
