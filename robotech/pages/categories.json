@@ -715,6 +715,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "wires & cables"
+      },
+      {
+        "id": "45",
+        "title": "Breadboard Soldless 830 Tie-points",
+        "price": "60",
+        "previousPrice": "0",
+        "description": "Breadboard Soldless 830 Tie-points",
+        "count": "5",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/Breadboard-Soldless-830-Tie-points.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "Breadboard Soldless 830 Tie-points",
+        "isNew": false,
+        "quantity": 1,
+        "category": "wires & cables"
       }
     ]
   }
