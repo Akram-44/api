@@ -563,6 +563,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "displays ( lcd & 7-seg & led )"
+      },
+      {
+        "id": "35",
+        "title": "IIC/I2C Serial Interface Adapter Module",
+        "price": "50",
+        "previousPrice": "0",
+        "description": "IIC/I2C Serial Interface Adapter Module",
+        "count": "05",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/IICI2C-Serial-Interface-Adapter-Module.png",
+        "image2": "",
+        "image3": "",
+        "brand": "IIC/I2C Serial Interface Adapter Module",
+        "isNew": false,
+        "quantity": 1,
+        "category": "displays ( lcd & 7-seg & led )"
       }
     ]
   }
