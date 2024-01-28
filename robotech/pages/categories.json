@@ -580,6 +580,22 @@
         "category": "displays ( lcd & 7-seg & led )"
       }
     ],
-    "wires & cables": []
+    "wires & cables": [
+      {
+        "id": "36",
+        "title": "Stepper Motors Cable",
+        "price": "45",
+        "previousPrice": "0",
+        "description": "Stepper Motors Cable",
+        "count": "5",
+        "image1": "https://free-electronic.com/wp-content/uploads/2023/02/Stepper20Motors20Cable.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "Stepper Motors Cable",
+        "isNew": false,
+        "quantity": 1,
+        "category": "wires & cables"
+      }
+    ]
   }
 ]
