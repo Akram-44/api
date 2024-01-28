@@ -321,6 +321,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "motors & drives"
+      },
+      {
+        "id": "19",
+        "title": "Servo Driver Module 16 Channel PCA9685",
+        "price": "230",
+        "previousPrice": "0",
+        "description": "Servo Driver Module 16 Channel PCA9685",
+        "count": "1",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/Servo20Driver20Module201620Channel20PCA9685.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "Servo Driver Module 16 Channel PCA9685",
+        "isNew": false,
+        "quantity": 1,
+        "category": "motors & drives"
       }
     ]
   }
