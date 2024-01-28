@@ -276,6 +276,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "motors & drives"
+      },
+      {
+        "id": "16",
+        "title": "L298 Motor Driver Module",
+        "price": "80",
+        "previousPrice": "0",
+        "description": "L298 Motor Driver Module",
+        "count": "1",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/L298-Motor-Driver-Module.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "L298 Motor Driver Module",
+        "isNew": false,
+        "quantity": 1,
+        "category": "motors & drives"
       }
     ]
   }
