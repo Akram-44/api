@@ -852,6 +852,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "sensors"
+      },
+      {
+        "id": "53",
+        "title": "PIR Motion Sensor (HC-SR501)",
+        "price": "55",
+        "previousPrice": "0",
+        "description": "PIR Motion Sensor (HC-SR501)",
+        "count": "15",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/HC-SR501.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "PIR Motion Sensor (HC-SR501)",
+        "isNew": false,
+        "quantity": 1,
+        "category": "sensors"
       }
     ]
   }
