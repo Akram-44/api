@@ -610,6 +610,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "wires & cables"
+      },
+      {
+        "id": "38",
+        "title": "USB Cable",
+        "price": "15",
+        "previousPrice": "0",
+        "description": "USB Cable",
+        "count": "20",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/USB20Cable201.5m.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "USB Cable",
+        "isNew": false,
+        "quantity": 1,
+        "category": "wires & cables"
       }
     ]
   }
