@@ -640,6 +640,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "wires & cables"
+      },
+      {
+        "id": "40",
+        "title": "Endless Wire with Standard DC (2.1mm) Male Plug 25Cm",
+        "price": "5",
+        "previousPrice": "0",
+        "description": "Endless Wire with Standard DC (2.1mm) Male Plug 25Cm",
+        "count": "10",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/EWWSDCM.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "Endless Wire with Standard DC (2.1mm) Male Plug 25Cm",
+        "isNew": false,
+        "quantity": 1,
+        "category": "wires & cables"
       }
     ]
   }
