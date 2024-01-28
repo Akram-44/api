@@ -732,6 +732,22 @@
         "category": "wires & cables"
       }
     ],
-    "sensors": []
+    "sensors": [
+      {
+        "id": "46",
+        "title": "Bluetooth Module HC-05 (6pin + Button)",
+        "price": "235",
+        "previousPrice": "0",
+        "description": "Bluetooth Module HC-05 (6pin + Button)",
+        "count": "2",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/HC-05.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "Bluetooth Module HC-05 (6pin + Button)",
+        "isNew": false,
+        "quantity": 1,
+        "category": "sensors"
+      }
+    ]
   }
 ]
