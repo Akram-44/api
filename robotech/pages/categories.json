@@ -47,6 +47,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "cnc & 3d printer parts"
+      },
+      {
+        "id": "9",
+        "title": "UNO CNC Shield V3 Engraving Machine",
+        "price": "120",
+        "previousPrice": "0",
+        "description": "UNO CNC Shield V3 Engraving Machine",
+        "count": "01",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/CNC-Shield-V3-Engraving-Machine.png",
+        "image2": "",
+        "image3": "",
+        "brand": "UNO CNC Shield V3 Engraving Machine",
+        "isNew": false,
+        "quantity": 1,
+        "category": "arduino boards"
       }
     ],
     "arduino boards": [
