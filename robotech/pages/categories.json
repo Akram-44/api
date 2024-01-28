@@ -109,6 +109,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "arduino boards"
+      },
+      {
+        "id": "6",
+        "title": "WEMOS® D1 R32 ESP32 WiFi & Bluetooth UNO R3 PINOUT",
+        "price": "300",
+        "previousPrice": "0",
+        "description": "WEMOS® D1 R32 ESP32 WiFi & Bluetooth UNO R3 PINOUT",
+        "count": "01",
+        "image1": "https://i0.wp.com/makerselectronics.com/wp-content/uploads/2022/09/d699faf0337cf7ebc0ce3ab0eed482c1-1360x1360.jpg?fit=1360%2C1360&ssl=1",
+        "image2": "",
+        "image3": "",
+        "brand": "WEMOS® D1 R32 ESP32 WiFi & Bluetooth UNO R3 PINOUT",
+        "isNew": false,
+        "quantity": 1,
+        "category": "arduino boards"
       }
     ]
   }
