@@ -670,6 +670,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "wires & cables"
+      },
+      {
+        "id": "42",
+        "title": "Male to Female Jumper Wire 1 Pin (20cm)",
+        "price": "2",
+        "previousPrice": "0",
+        "description": "Male to Female Jumper Wire 1 Pin (20cm)",
+        "count": "0100",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/840fe9a1-8e51-46a6-9d59-17c81c9bc3e2.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "Male to Female Jumper Wire 1 Pin (20cm)",
+        "isNew": false,
+        "quantity": 1,
+        "category": "wires & cables"
       }
     ]
   }
