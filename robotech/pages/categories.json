@@ -139,6 +139,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "arduino boards"
+      },
+      {
+        "id": "8",
+        "title": "ESP32-CAM OV2640 Camera V2.0",
+        "price": "500",
+        "previousPrice": "0",
+        "description": "ESP32-CAM OV2640 Camera V2.0",
+        "count": "01",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/28871575941668.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "ESP32-CAM OV2640 Camera V2.0",
+        "isNew": false,
+        "quantity": 1,
+        "category": "arduino boards"
       }
     ]
   }
