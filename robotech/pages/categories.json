@@ -777,6 +777,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "sensors"
+      },
+      {
+        "id": "48",
+        "title": "Raindrop Water Sensor Module",
+        "price": "60",
+        "previousPrice": "0",
+        "description": "Raindrop Water Sensor Module",
+        "count": "3",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/Raindrop-Water-Sensor-Module.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "Raindrop Water Sensor Module",
+        "isNew": false,
+        "quantity": 1,
+        "category": "sensors"
       }
     ]
   }
