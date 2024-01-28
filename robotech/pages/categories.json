@@ -62,6 +62,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "arduino boards"
+      },
+      {
+        "id": "10",
+        "title": "RAMPS 1.4 Reprap 3D Printer Arduino Mega Shield",
+        "price": "160",
+        "previousPrice": "0",
+        "description": "RAMPS 1.4 Reprap 3D Printer Arduino Mega Shield",
+        "count": "01",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/RAMPS-1.4-Reprap-3D-Printer-Arduino-Mega-Shield.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "RAMPS 1.4 Reprap 3D Printer Arduino Mega Shield",
+        "isNew": false,
+        "quantity": 1,
+        "category": "cnc & 3d printer parts"
       }
     ],
     "arduino boards": [
