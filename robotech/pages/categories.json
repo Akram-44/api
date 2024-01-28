@@ -747,6 +747,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "sensors"
+      },
+      {
+        "id": "47",
+        "title": "NRF24L01 Wireless Module 2.4 Ghz RF Transceiver",
+        "price": "80",
+        "previousPrice": "0",
+        "description": "NRF24L01 Wireless Module 2.4 Ghz RF Transceiver",
+        "count": "2",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/NRF24L01-Wireless-Module-2.4-Ghz-RF-Transceiver.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "NRF24L01 Wireless Module 2.4 Ghz RF Transceiver",
+        "isNew": false,
+        "quantity": 1,
+        "category": "sensors"
       }
     ]
   }
