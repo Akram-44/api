@@ -351,6 +351,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "motors & drives"
+      },
+      {
+        "id": "21",
+        "title": "Servo Motor SG90",
+        "price": "95",
+        "previousPrice": "0",
+        "description": "Servo Motor SG90",
+        "count": "11",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/Servo20Motor20SG90.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "Servo Motor SG90",
+        "isNew": false,
+        "quantity": 1,
+        "category": "motors & drives"
       }
     ]
   }
