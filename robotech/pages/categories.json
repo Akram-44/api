@@ -64,6 +64,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "arduino boards"
+      },
+      {
+        "id": "3",
+        "title": "Arduino MEGA 2560 R3",
+        "price": "900",
+        "previousPrice": "0",
+        "description": "Arduino MEGA 2560 R3",
+        "count": "3",
+        "image1": "https://free-electronic.com/product/arduino-mega-2560-r3-usb-cable/",
+        "image2": "",
+        "image3": "",
+        "brand": "Arduino MEGA ",
+        "isNew": false,
+        "quantity": 1,
+        "category": "arduino boards"
       }
     ]
   }
