@@ -124,6 +124,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "arduino boards"
+      },
+      {
+        "id": "7",
+        "title": "NodeMcu Lua V3 CH340 (ESP8266)",
+        "price": "230",
+        "previousPrice": "0",
+        "description": "NodeMcu Lua V3 CH340 (ESP8266)",
+        "count": "01",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/NodeMcu-Lua-V3-CH340.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "NodeMcu Lua V3 CH340 (ESP8266)",
+        "isNew": false,
+        "quantity": 1,
+        "category": "arduino boards"
       }
     ]
   }
