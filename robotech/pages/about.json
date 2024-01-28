@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "1",
+    "title": "Courses",
+    "description": "We introduced number of courses related to programming and electronics ",
+    "link_text": "courses",
+    "link_url": "/courses"
+  }
+]
