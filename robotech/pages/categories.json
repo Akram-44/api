@@ -822,6 +822,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "sensors"
+      },
+      {
+        "id": "51",
+        "title": "DHT11 Digital Humidity & Temperature Sensor Module",
+        "price": "70",
+        "previousPrice": "0",
+        "description": "DHT11 Digital Humidity & Temperature Sensor Module",
+        "count": "5",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/DHT11-Module.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "DHT11 Digital Humidity & Temperature Sensor Module",
+        "isNew": false,
+        "quantity": 1,
+        "category": "sensors"
       }
     ]
   }
