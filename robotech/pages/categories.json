@@ -115,6 +115,22 @@
         "category": "vibrations"
       }
     ],
-    "cnc & 3d printer parts": []
+    "cnc & 3d printer parts": [
+      {
+        "id": "1",
+        "title": "NANO CNC Shield V4",
+        "price": "120",
+        "previousPrice": "1",
+        "description": "NANO CNC Shield V4",
+        "count": "2",
+        "image1": "https://3dsmart-shop.com/wp-content/uploads/2022/07/Arduino-CNC-Sheild-v3-Nano.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "cnc",
+        "isNew": false,
+        "quantity": 1,
+        "category": "cnc & 3d printer parts"
+      }
+    ]
   }
 ]
