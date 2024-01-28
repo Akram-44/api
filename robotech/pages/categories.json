@@ -366,6 +366,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "motors & drives"
+      },
+      {
+        "id": "22",
+        "title": "Small Stepper Motor Driver Board (ULN2003)",
+        "price": "35",
+        "previousPrice": "0",
+        "description": "Small Stepper Motor Driver Board (ULN2003)",
+        "count": "011",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/Small-Stepper-Motor-Driver-Board-ULN2003.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "Small Stepper Motor Driver Board (ULN2003)",
+        "isNew": false,
+        "quantity": 1,
+        "category": "motors & drives"
       }
     ]
   }
