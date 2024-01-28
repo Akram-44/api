@@ -426,6 +426,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "motors & drives"
+      },
+      {
+        "id": "26",
+        "title": "3.7V Low Noise Miniature Diaphragm Pump",
+        "price": "220",
+        "previousPrice": "0",
+        "description": "3.7V Low Noise Miniature Diaphragm Pump",
+        "count": "02",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/3.7V20Low20Noise20Miniature20Diaphragm20Pump.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "3.7V Low Noise Miniature Diaphragm Pump",
+        "isNew": false,
+        "quantity": 1,
+        "category": "motors & drives"
       }
     ]
   }
