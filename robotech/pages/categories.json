@@ -94,6 +94,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "arduino boards"
+      },
+      {
+        "id": "5",
+        "title": "Arduino Nano V3.0 CH340 Chip + Mini USB Cable",
+        "price": "245",
+        "previousPrice": "0",
+        "description": "Arduino Nano V3.0 CH340 Chip + Mini USB Cable",
+        "count": "18",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/Arduino-Nano-V3.0-CH340-Chip-Mini-USB-Cable.jpg",
+        "image2": "",
+        "image3": "",
+        "brand": "Arduino Nano",
+        "isNew": false,
+        "quantity": 1,
+        "category": "arduino boards"
       }
     ]
   }
