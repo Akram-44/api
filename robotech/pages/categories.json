@@ -1,22 +1,5 @@
 [
   {
-    "ics": [
-      {
-        "id": "235278",
-        "title": "IC SOCKET Base 14 PIN DIP",
-        "price": "100",
-        "previousPrice": "120",
-        "description": "IC SOCKET Base 20  PIN DIP",
-        "count": "1",
-        "image1": "https://store.fut-electronics.com/cdn/shop/products/IC-SOCKET-Base-14-PIN-DIP.jpg?v=1655900711",
-        "image2": "https://store.fut-electronics.com/cdn/shop/products/ICSOCKETBase16PINDIP.jpg?v=1655986999",
-        "image3": "https://store.fut-electronics.com/cdn/shop/products/ICSOCKETBase20PINDIP.jpg?v=1655987815",
-        "brand": "Electronics",
-        "isNew": false,
-        "quantity": 1,
-        "category": "ics"
-      }
-    ],
     "cnc & 3d printer parts": [
       {
         "id": "1",
