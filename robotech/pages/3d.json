@@ -22,5 +22,17 @@
     "image3": "",
     "brand": "3d print",
     "quantity": 1
+  },
+  {
+    "id": "643",
+    "title": "Sculpteo 3D Printing Service",
+    "price": "2500",
+    "previousPrice": "3000",
+    "description": "Sculpteo offers a versatile 3D printing service with a range of materials, including plastics, metals, and ceramics. They provide an online platform for easy file uploading and customization, making it suitable for both individuals and businesses.",
+    "image1": "https://cdnb.artstation.com/p/assets/images/images/012/644/713/original/jakub-kusyk-druk-3d-cv-animacja.gif?1535803711",
+    "image2": "",
+    "image3": "",
+    "brand": "prototype printing",
+    "quantity": 1
   }
 ]
