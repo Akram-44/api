@@ -1,17 +1,5 @@
 [
   {
-    "id": "3457",
-    "title": " i.materialise 3D Printing",
-    "price": "200",
-    "previousPrice": "200",
-    "description": "i.materialise provides a user-friendly platform for 3D printing services. They support a variety of materials, such as plastics, metals, and resins. The service is suitable for both professional and hobbyist projects.",
-    "count": "2",
-    "image1": "https://media4.giphy.com/media/Zi61LwmjqvqerXlKFN/giphy.gif?cid=790b7611r144yo2z03h8knhhn4vh97bz5hb0xwi6seakm7no&ep=v1_gifs_search&rid=giphy.gif&ct=s",
-    "image2": "",
-    "image3": "",
-    "brand": "3d print"
-  },
-  {
     "id": "32",
     "title": "Shapeways 3D Printing Service",
     "price": "150",
