@@ -30,21 +30,6 @@
         "isNew": false,
         "quantity": 1,
         "category": "ics"
-      },
-      {
-        "id": "2323",
-        "title": "afdaf",
-        "price": "23",
-        "previousPrice": "35",
-        "description": "adfadf",
-        "count": "0",
-        "image1": "dfa",
-        "image2": "",
-        "image3": "",
-        "brand": "dfa",
-        "isNew": false,
-        "quantity": 1,
-        "category": "ics"
       }
     ],
     "cnc & 3d printer parts": [
