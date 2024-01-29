@@ -7,7 +7,7 @@
         "price": "8",
         "previousPrice": "10",
         "description": "DS1302 is a tickle-charge timekeeping chip which contains a real-time clock/calendar and 31 bytes of static RAM. DS1302 uses serial communication to interact with microcontrollers. Also, it automatically adjust the date for the month with fewer days. Clock operates in 24hr or 12hr format with an AM/PM indicator.  DS1302 chip is also commonly used as DS1302 RTC module which comes with a 32 kHz crystal and on-board battery backup all in a small SIP module that is compatible with a breadboard. DS1302 module are used by makers with Arduino, Raspberry Pi and other Micro-controllers.  Features Real-time clock counts minutes, seconds, date, hours, month day of the week, year and leap-year compensation upto 2100. Single and Multiple (Burst mode) data transfer for Read and Write of Clock or RAM data 31*8 battery-backed general purpose RAM Simple interface using 3-wire TTL-compatible 2V to 5.5V full operation Compact size Available Package: 8-pin DIP, 8-pin SO",
-        "count": "1",
+        "count": "0",
         "image1": "https://store.fut-electronics.com/cdn/shop/products/images---2019-10-22T114629.095.jpg",
         "image2": "https://store.fut-electronics.com/cdn/shop/products/DS1302-Pinout.png",
         "image3": "https://store.fut-electronics.com/cdn/shop/products/images---2019-10-22T114629.095.jpg",
