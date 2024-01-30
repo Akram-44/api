@@ -90,20 +90,6 @@
         "isNew": false,
         "quantity": 1,
         "category": "cnc & 3d printer parts"
-      },
-      {
-        "id": "32",
-        "title": "dsaf",
-        "price": "32",
-        "previousPrice": "23",
-        "description": "dafs",
-        "count": 1,
-        "image1": "sfa",
-        "image2": "",
-        "image3": "",
-        "isNew": false,
-        "quantity": 1,
-        "category": "cnc & 3d printer parts"
       }
     ],
     "arduino boards": [
