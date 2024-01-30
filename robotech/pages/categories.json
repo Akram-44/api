@@ -899,21 +899,6 @@
         "category": "relay modules"
       }
     ],
-    "d": [
-      {
-        "id": "23",
-        "title": "dsfa",
-        "price": "23",
-        "previousPrice": "32",
-        "description": "adfs",
-        "count": 1,
-        "image1": "dsf",
-        "image2": "",
-        "image3": "",
-        "isNew": false,
-        "quantity": 1,
-        "category": "cnc & 3d printer parts"
-      }
-    ]
+    "d": []
   }
 ]
