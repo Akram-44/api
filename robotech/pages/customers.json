@@ -1,34 +1,18 @@
 [
   {
-    "id": "c1665f65-d675-486d-9950-a9d8416dda9c",
-    "fullName": "dafdfad",
-    "phone": "3323",
+    "id": "d1b8c765-180e-47a9-8cf4-c5fb3408ae97",
+    "fullName": "ews",
+    "phone": "32323",
     "transactions": [
       {
         "orders": [
           {
-            "productName": "L298 Motor Driver Module",
-            "quantity": 1
-          },
-          {
-            "productName": "UNO CNC Shield V3 Engraving Machine",
+            "productName": "NANO CNC Shield V4",
             "quantity": 1
           }
         ],
-        "amount": 0,
-        "courses": [
-          {
-            "productName": "JavaScript Monster",
-            "quantity": 1
-          }
-        ]
+        "amount": 0
       }
     ]
-  },
-  {
-    "id": "d1b8c765-180e-47a9-8cf4-c5fb3408ae97",
-    "fullName": "ews",
-    "phone": "32323",
-    "transactions": []
   }
 ]
