@@ -22,22 +22,6 @@
           {
             "productName": "Product 1",
             "quantity": 1
-          },
-          {
-            "productName": "Product 3",
-            "quantity": 1
-          },
-          {
-            "productName": "Product 2",
-            "quantity": 1100
-          },
-          {
-            "productName": "Product 1",
-            "quantity": 1
-          },
-          {
-            "productName": "",
-            "quantity": 1
           }
         ],
         "amount": 0
