@@ -22,6 +22,10 @@
           {
             "productName": "Product 1",
             "quantity": 1
+          },
+          {
+            "productName": "Product 1",
+            "quantity": 1
           }
         ],
         "amount": 0
