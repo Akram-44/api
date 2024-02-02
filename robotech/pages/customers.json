@@ -9,6 +9,10 @@
           {
             "productName": "L298 Motor Driver Module",
             "quantity": 1
+          },
+          {
+            "productName": "UNO CNC Shield V3 Engraving Machine",
+            "quantity": 1
           }
         ],
         "amount": 0
