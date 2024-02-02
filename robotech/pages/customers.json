@@ -24,17 +24,11 @@
             "quantity": 1
           },
           {
-            "productName": "",
+            "productName": "L293 Motor Driver Shield",
             "quantity": 1
           }
         ],
-        "amount": 0,
-        "courses": [
-          {
-            "productName": "JavaScript Monster",
-            "quantity": 1
-          }
-        ]
+        "amount": 0
       }
     ]
   }
