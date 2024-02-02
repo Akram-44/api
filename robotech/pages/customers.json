@@ -1,17 +1,1 @@
-{
-  "id": "a426f369-dc96-4204-91f9-c3164163db0f",
-  "fullName": "ali",
-  "phone": "0111",
-  "transactions": [
-    {
-      "date": "2024-02-02T11:48:21.121Z",
-      "orders": [
-        {
-          "productName": "new order",
-          "quantity": 1
-        }
-      ],
-      "amount": 0
-    }
-  ]
-}
+[]
