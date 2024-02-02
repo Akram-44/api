@@ -28,7 +28,7 @@
         "courses": [
           null,
           {
-            "productName": "",
+            "productName": "Product 1",
             "quantity": 1
           }
         ]
