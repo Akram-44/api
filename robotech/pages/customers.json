@@ -28,7 +28,14 @@
             "quantity": 1
           }
         ],
-        "amount": 0
+        "amount": 0,
+        "courses": [
+          null,
+          {
+            "productName": "",
+            "quantity": 3333
+          }
+        ]
       }
     ]
   }
