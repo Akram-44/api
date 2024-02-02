@@ -1,29 +1,18 @@
 [
   {
-    "id": "d1e1b9e9-c36b-4bc2-bacc-b3c677801b3c",
-    "fullName": "ads",
-    "phone": "adad",
+    "id": "620e4680-87ee-474b-8b4f-368244731f77",
+    "fullName": "rrrew",
+    "phone": "wdaf",
     "transactions": [
       {
         "courses": [
           {
             "productName": "JavaScript Monster",
-            "quantity": 1,
-            "date": "2024-02-02T21:48:58.939Z"
-          },
-          {
-            "productName": "JavaScript Monster",
-            "quantity": 21
+            "quantity": 8
           }
         ],
         "amount": 0
       }
     ]
-  },
-  {
-    "id": "620e4680-87ee-474b-8b4f-368244731f77",
-    "fullName": "rrrew",
-    "phone": "wdaf",
-    "transactions": []
   }
 ]
