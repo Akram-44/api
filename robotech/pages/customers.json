@@ -33,6 +33,10 @@
           {
             "productName": "JavaScript Monster",
             "quantity": 1
+          },
+          {
+            "productName": "JavaScript Monster",
+            "quantity": 20
           }
         ]
       }
