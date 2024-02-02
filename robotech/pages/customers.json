@@ -1,30 +1,19 @@
 [
   {
-    "id": "afe40ea9-f5a3-4a80-aa4e-ca0c4ce618b3",
-    "fullName": "32322",
-    "phone": "dsfadsf",
-    "transactions": [
-      {
-        "orders": [
-          {
-            "productName": "DRV8825 Stepper Motor Driver",
-            "quantity": 1
-          }
-        ],
-        "amount": 0,
-        "courses": [
-          {
-            "productName": "JavaScript Monster",
-            "quantity": 123
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "d1e1b9e9-c36b-4bc2-bacc-b3c677801b3c",
     "fullName": "ads",
     "phone": "adad",
-    "transactions": []
+    "transactions": [
+      {
+        "courses": [
+          {
+            "productName": "JavaScript Monster",
+            "quantity": 1,
+            "date": "2024-02-02T21:48:58.939Z"
+          }
+        ],
+        "amount": 0
+      }
+    ]
   }
 ]
