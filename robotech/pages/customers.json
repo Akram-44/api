@@ -22,10 +22,6 @@
           {
             "productName": "Product 1",
             "quantity": 1
-          },
-          {
-            "productName": "Product 1",
-            "quantity": 1
           }
         ],
         "amount": 0,
@@ -33,7 +29,7 @@
           null,
           {
             "productName": "",
-            "quantity": 3333
+            "quantity": 1
           }
         ]
       }
