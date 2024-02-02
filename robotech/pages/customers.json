@@ -26,6 +26,10 @@
           {
             "productName": "Product 3",
             "quantity": 1
+          },
+          {
+            "productName": "Product 2",
+            "quantity": 1100
           }
         ],
         "amount": 0
