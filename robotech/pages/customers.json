@@ -1,14 +1,17 @@
-[
-  {
-    "id": "a426f369-dc96-4204-91f9-c3164163db0f",
-    "fullName": "ali",
-    "phone": "0111",
-    "transactions": []
-  },
-  {
-    "id": "26a41534-c9a2-4872-bbfd-0080a4846424",
-    "fullName": "mohamed ahmed",
-    "phone": "0111455547",
-    "transactions": []
-  }
-]
+{
+  "id": "a426f369-dc96-4204-91f9-c3164163db0f",
+  "fullName": "ali",
+  "phone": "0111",
+  "transactions": [
+    {
+      "date": "2024-02-02T11:47:57.258Z",
+      "orders": [
+        {
+          "productName": "adf",
+          "quantity": 1
+        }
+      ],
+      "amount": 0
+    }
+  ]
+}
