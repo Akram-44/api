@@ -26,24 +26,9 @@
           {
             "productName": "L298 Motor Driver Module",
             "quantity": 1
-          },
-          {
-            "productName": "DRV8825 Stepper Motor Driver",
-            "quantity": 13
           }
         ],
-        "amount": 0,
-        "courses": [
-          null,
-          {
-            "productName": "Product 1",
-            "quantity": 1232333
-          },
-          {
-            "productName": "Product 2",
-            "quantity": 222222
-          }
-        ]
+        "amount": 0
       }
     ]
   }
