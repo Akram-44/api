@@ -30,6 +30,10 @@
           {
             "productName": "Product 1",
             "quantity": 1232333
+          },
+          {
+            "productName": "Product 2",
+            "quantity": 222222
           }
         ]
       }
