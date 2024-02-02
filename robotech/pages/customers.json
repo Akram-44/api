@@ -14,6 +14,10 @@
           {
             "productName": "monand",
             "quantity": 1
+          },
+          {
+            "productName": "lcd",
+            "quantity": 1
           }
         ],
         "amount": 0
