@@ -15,7 +15,13 @@
             "quantity": 1
           }
         ],
-        "amount": 0
+        "amount": 0,
+        "courses": [
+          {
+            "productName": "JavaScript Monster",
+            "quantity": 1
+          }
+        ]
       }
     ]
   }
