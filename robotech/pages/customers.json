@@ -26,10 +26,16 @@
         ],
         "amount": 0,
         "courses": [
-          null,
+          [
+            null,
+            {
+              "productName": "Product 1",
+              "quantity": 2
+            }
+          ],
           {
-            "productName": "Product 1",
-            "quantity": 2
+            "productName": "Product 2",
+            "quantity": 32342
           }
         ]
       }
