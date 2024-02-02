@@ -1,36 +1,18 @@
 [
   {
-    "id": "d1b8c765-180e-47a9-8cf4-c5fb3408ae97",
-    "fullName": "ews",
-    "phone": "32323",
+    "id": "afe40ea9-f5a3-4a80-aa4e-ca0c4ce618b3",
+    "fullName": "32322",
+    "phone": "dsfadsf",
     "transactions": [
       {
         "orders": [
           {
-            "productName": "NANO CNC Shield V4",
+            "productName": "DRV8825 Stepper Motor Driver",
             "quantity": 1
           }
         ],
-        "amount": 0,
-        "courses": [
-          {
-            "productName": "JavaScript Monster",
-            "quantity": 1
-          }
-        ]
+        "amount": 0
       }
     ]
-  },
-  {
-    "id": "14a67ae3-858e-4403-ad3a-3ccb5df4de51",
-    "fullName": "dafdad",
-    "phone": "ad323",
-    "transactions": []
-  },
-  {
-    "id": "afe40ea9-f5a3-4a80-aa4e-ca0c4ce618b3",
-    "fullName": "32322",
-    "phone": "dsfadsf",
-    "transactions": []
   }
 ]
