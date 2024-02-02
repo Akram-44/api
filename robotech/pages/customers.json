@@ -3,6 +3,17 @@
     "id": "193df5fa-e731-482d-a3d8-988cfb9dc392",
     "fullName": "adfa",
     "phone": "0111",
-    "transactions": []
+    "transactions": [
+      {
+        "date": "2024-02-02T11:59:08.155Z",
+        "orders": [
+          {
+            "productName": "dse",
+            "quantity": 1
+          }
+        ],
+        "amount": 0
+      }
+    ]
   }
 ]
