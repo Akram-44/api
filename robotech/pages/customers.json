@@ -10,6 +10,10 @@
             "productName": "JavaScript Monster",
             "quantity": 1,
             "date": "2024-02-02T21:48:58.939Z"
+          },
+          {
+            "productName": "JavaScript Monster",
+            "quantity": 21
           }
         ],
         "amount": 0
