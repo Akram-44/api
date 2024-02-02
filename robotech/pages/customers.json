@@ -5,20 +5,13 @@
     "phone": "3323",
     "transactions": [
       {
-        "date": "2024-02-02T21:30:40.441Z",
         "orders": [
           {
-            "productName": "Robot Smart Car DC Motor",
-            "quantity": 112
-          }
-        ],
-        "amount": 0,
-        "courses": [
-          {
-            "productName": "JavaScript Monster",
+            "productName": "L298 Motor Driver Module",
             "quantity": 1
           }
-        ]
+        ],
+        "amount": 0
       }
     ]
   }
