@@ -22,10 +22,6 @@
           {
             "productName": "Product 1",
             "quantity": 1
-          },
-          {
-            "productName": "L298 Motor Driver Module",
-            "quantity": 1
           }
         ],
         "amount": 0,
@@ -33,10 +29,6 @@
           {
             "productName": "JavaScript Monster",
             "quantity": 1
-          },
-          {
-            "productName": "JavaScript Monster",
-            "quantity": 20
           }
         ]
       }
