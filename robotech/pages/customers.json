@@ -150,6 +150,17 @@
     "age": "20",
     "address": "Sayed Abdelatif street",
     "faculty": "Beni-Suef Fac",
-    "transactions": {}
+    "transactions": {
+      "products": [
+        {
+          "productName": "USB Cable",
+          "quantity": 1,
+          "date": "Sun, Feb 04, 2024, 12:07 AM",
+          "discount": 0,
+          "subtotal": 15,
+          "piecePrice": "15"
+        }
+      ]
+    }
   }
 ]
