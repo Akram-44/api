@@ -113,6 +113,14 @@
           "discount": 0,
           "subtotal": 1000,
           "piecePrice": "1000"
+        },
+        {
+          "productName": "WEMOS® D1 R32 ESP32 WiFi & Bluetooth UNO R3 PINOUT",
+          "quantity": 1,
+          "date": "Sat, Feb 03, 2024, 11:53 PM",
+          "discount": 10,
+          "subtotal": 290,
+          "piecePrice": "300"
         }
       ]
     }
