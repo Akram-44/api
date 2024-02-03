@@ -1,70 +1,11 @@
 [
   {
-    "id": "5368c458-3ed6-4800-90aa-e74e9aa80232",
-    "fullName": "Ali Ashraf Abdelbasir Mohamed",
-    "phone": "4444",
+    "id": "d4fb8c6b-ae3e-42f4-944d-293628d1fe34",
+    "fullName": "af",
+    "phone": "ddd",
     "transactions": [
       {
         "courses": [
-          {
-            "productName": "JavaScript Monster",
-            "quantity": 10
-          },
-          {
-            "productName": "JavaScript Monster",
-            "quantity": 4
-          },
-          {
-            "productName": "JavaScript Monster",
-            "quantity": 1
-          }
-        ],
-        "amount": 0
-      },
-      {
-        "courses": [
-          {
-            "productName": "JavaScript Monster",
-            "quantity": 10
-          },
-          {
-            "productName": "JavaScript Monster",
-            "quantity": 4
-          },
-          {
-            "productName": "JavaScript Monster",
-            "quantity": 1
-          }
-        ],
-        "amount": 0
-      },
-      {
-        "courses": [
-          {
-            "productName": "JavaScript Monster",
-            "quantity": 10
-          },
-          {
-            "productName": "JavaScript Monster",
-            "quantity": 4
-          },
-          {
-            "productName": "JavaScript Monster",
-            "quantity": 1
-          }
-        ],
-        "amount": 0
-      },
-      {
-        "courses": [
-          {
-            "productName": "JavaScript Monster",
-            "quantity": 10
-          },
-          {
-            "productName": "JavaScript Monster",
-            "quantity": 4
-          },
           {
             "productName": "JavaScript Monster",
             "quantity": 1
@@ -73,11 +14,5 @@
         "amount": 0
       }
     ]
-  },
-  {
-    "id": "d4fb8c6b-ae3e-42f4-944d-293628d1fe34",
-    "fullName": "af",
-    "phone": "ddd",
-    "transactions": []
   }
 ]
