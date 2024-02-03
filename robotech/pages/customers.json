@@ -15,6 +15,16 @@
     "id": "2779789d-367b-479f-b77e-a94732bf2c2c",
     "fullName": "Ali Ashraf Abdelbasir Mohamed",
     "phone": "01152684108",
-    "transactions": {}
+    "transactions": {
+      "products": [
+        {
+          "productName": "UNO CNC Shield V3 Engraving Machine",
+          "quantity": 1,
+          "date": "2024-02-03T17:57:58.700Z",
+          "subtotal": null,
+          "piecePrice": "150"
+        }
+      ]
+    }
   }
 ]
