@@ -36,6 +36,14 @@
           "subtotal": 50,
           "piecePrice": "15",
           "discount": 10
+        },
+        {
+          "productName": "Sculpteo 3D Printing Service",
+          "quantity": 2,
+          "date": "2024-02-03T12:12:18.945Z",
+          "subtotal": 50,
+          "piecePrice": "30",
+          "discount": 10
         }
       ]
     }
