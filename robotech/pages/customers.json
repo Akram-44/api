@@ -9,6 +9,23 @@
           {
             "productName": "JavaScript Monster",
             "quantity": 10
+          },
+          {
+            "productName": "JavaScript Monster",
+            "quantity": 4
+          }
+        ],
+        "amount": 0
+      },
+      {
+        "courses": [
+          {
+            "productName": "JavaScript Monster",
+            "quantity": 10
+          },
+          {
+            "productName": "JavaScript Monster",
+            "quantity": 4
           }
         ],
         "amount": 0
