@@ -61,6 +61,13 @@
           "subtotal": 890,
           "piecePrice": "900",
           "discount": 10
+        },
+        {
+          "productName": "Arduino Uno R3",
+          "quantity": 1,
+          "date": "2024-02-03T21:27:22.638Z",
+          "subtotal": 375,
+          "piecePrice": "375"
         }
       ]
     }
