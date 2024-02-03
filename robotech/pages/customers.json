@@ -15,6 +15,16 @@
     "id": "2779789d-367b-479f-b77e-a94732bf2c2c",
     "fullName": "Ali Ashraf Abdelbasir Mohamed",
     "phone": "01152684108",
-    "transactions": {}
+    "transactions": {
+      "courses": [
+        {
+          "productName": "JavaScript Monster",
+          "quantity": 1,
+          "date": "2024-02-03T18:25:55.242Z",
+          "subtotal": 1000,
+          "piecePrice": "1000"
+        }
+      ]
+    }
   }
 ]
