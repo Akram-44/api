@@ -1,36 +1,18 @@
 [
   {
-    "id": "ce934a53-014c-4434-aa2b-7600e8f4359e",
-    "fullName": "ahmed",
-    "phone": "3233",
+    "id": "2d9d7c94-c9fe-4872-b79c-7073506600b6",
+    "fullName": "akram",
+    "phone": "1111111111",
     "transactions": [
       {
         "courses": [
           {
             "productName": "JavaScript Monster",
-            "quantity": 32
+            "quantity": 1
           }
         ],
         "amount": 0
       }
     ]
-  },
-  {
-    "id": "aa21b58c-21fc-469d-ad03-9251dffc46ee",
-    "fullName": "Ali Ashraf Abdelbasir Mohamed",
-    "phone": "1212",
-    "transactions": []
-  },
-  {
-    "id": "fe7e8661-6f7d-403e-b9e6-825e65c9dcd8",
-    "fullName": "mohamed ali",
-    "phone": "01111",
-    "transactions": []
-  },
-  {
-    "id": "2d9d7c94-c9fe-4872-b79c-7073506600b6",
-    "fullName": "akram",
-    "phone": "1111111111",
-    "transactions": []
   }
 ]
