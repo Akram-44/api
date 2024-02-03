@@ -19,6 +19,16 @@
           "piecePrice": "160",
           "discount": 20
         }
+      ],
+      "printServices": [
+        {
+          "productName": " i.materialise 3D Printing",
+          "quantity": 4,
+          "date": "2024-02-03T12:09:10.219Z",
+          "subtotal": 50,
+          "piecePrice": "15",
+          "discount": 10
+        }
       ]
     }
   }
