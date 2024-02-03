@@ -73,6 +73,14 @@
           "discount": 1000,
           "subtotal": 3000,
           "piecePrice": "1000"
+        },
+        {
+          "productName": "JavaScript Monster",
+          "quantity": 4,
+          "date": "Sun, Feb 04, 2024, 01:42 AM",
+          "discount": 1000,
+          "subtotal": 3000,
+          "piecePrice": "1000"
         }
       ],
       "products": [
