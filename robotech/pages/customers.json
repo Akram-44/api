@@ -53,6 +53,14 @@
           "date": "2024-02-03T21:21:35.231Z",
           "subtotal": 160,
           "piecePrice": "160"
+        },
+        {
+          "productName": "Arduino MEGA 2560 R3",
+          "quantity": 1,
+          "date": "2024-02-03T21:22:40.061Z",
+          "subtotal": 890,
+          "piecePrice": "900",
+          "discount": 10
         }
       ]
     }
