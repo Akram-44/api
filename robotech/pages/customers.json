@@ -53,6 +53,12 @@
           "date": "2024-02-03T12:14:27.499Z",
           "subtotal": null,
           "piecePrice": "1000"
+        },
+        {
+          "productName": "",
+          "quantity": 1,
+          "date": "",
+          "subtotal": null
         }
       ]
     }
