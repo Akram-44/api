@@ -90,6 +90,20 @@
         "isNew": false,
         "quantity": 1,
         "category": "cnc & 3d printer parts"
+      },
+      {
+        "id": "0025e83b-fd77-44f5-bc24-0e501f4e6303",
+        "title": "fadf",
+        "price": "232",
+        "previousPrice": "23",
+        "description": "adsf",
+        "count": 1,
+        "image1": "adf",
+        "image2": "",
+        "image3": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "cnc & 3d printer parts"
       }
     ],
     "arduino boards": [
