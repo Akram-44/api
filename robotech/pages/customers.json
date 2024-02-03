@@ -1,24 +1,18 @@
 [
   {
-    "id": "2d9d7c94-c9fe-4872-b79c-7073506600b6",
-    "fullName": "akram",
-    "phone": "1111111111",
+    "id": "85d085ea-8475-47f2-8c10-b0a45b7dc363",
+    "fullName": "Ali Mohamed",
+    "phone": "1152684108",
     "transactions": [
       {
         "courses": [
           {
             "productName": "JavaScript Monster",
-            "quantity": 1
+            "quantity": 3
           }
         ],
         "amount": 0
       }
     ]
-  },
-  {
-    "id": "85d085ea-8475-47f2-8c10-b0a45b7dc363",
-    "fullName": "Ali Mohamed",
-    "phone": "1152684108",
-    "transactions": []
   }
 ]
