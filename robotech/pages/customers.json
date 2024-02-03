@@ -45,6 +45,15 @@
           "piecePrice": "30",
           "discount": 10
         }
+      ],
+      "courses": [
+        {
+          "productName": "JavaScript Monster",
+          "quantity": 1,
+          "date": "2024-02-03T12:14:27.499Z",
+          "subtotal": null,
+          "piecePrice": "1000"
+        }
       ]
     }
   }
