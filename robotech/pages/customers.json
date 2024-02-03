@@ -3,7 +3,13 @@
     "id": "7453c86f-1f3d-4c91-8dee-391c51040508",
     "fullName": "Akram Ashraf",
     "phone": "1152684108",
-    "transactions": []
+    "transactions": [
+      {
+        "productName": "JavaScript Monster",
+        "quantity": 1,
+        "date": "2024-02-03T10:01:54.896Z"
+      }
+    ]
   },
   {
     "id": "15ee61ff-f5ec-403e-8e73-5575fd6e8326",
