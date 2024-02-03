@@ -97,6 +97,14 @@
           "discount": 0,
           "subtotal": 160,
           "piecePrice": "160"
+        },
+        {
+          "productName": "Optical Endstop with 50cm Cable and Retail Package",
+          "quantity": 1,
+          "date": "2024-02-03T21:46:20.043Z",
+          "discount": 0,
+          "subtotal": 30,
+          "piecePrice": "30"
         }
       ]
     }
