@@ -24,6 +24,16 @@
           "subtotal": null,
           "piecePrice": "150"
         }
+      ],
+      "course": [
+        {
+          "productName": "JavaScript Monster",
+          "quantity": 1,
+          "date": "2024-02-03T18:00:50.329Z",
+          "subtotal": 999,
+          "piecePrice": "1000",
+          "discount": 1
+        }
       ]
     }
   }
