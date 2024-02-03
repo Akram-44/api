@@ -22,6 +22,14 @@
     "id": "2a2d28ee-c57a-4449-93ab-3598d543fed7",
     "fullName": "af",
     "phone": "01158541832",
-    "transactions": {}
+    "transactions": {
+      "courses": [
+        {
+          "productName": "JavaScript Monster",
+          "quantity": 10000,
+          "date": "2024-02-03T10:24:27.031Z"
+        }
+      ]
+    }
   }
 ]
