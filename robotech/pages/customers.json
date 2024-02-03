@@ -121,6 +121,14 @@
           "discount": 10,
           "subtotal": 290,
           "piecePrice": "300"
+        },
+        {
+          "productName": "NodeMcu Lua V3 CH340 (ESP8266)",
+          "quantity": 1,
+          "date": "Sun, Feb 04, 2024, 12:03 AM",
+          "discount": 0,
+          "subtotal": 230,
+          "piecePrice": "230"
         }
       ],
       "printServices": [
