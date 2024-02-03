@@ -51,6 +51,14 @@
           "date": "2024-02-03T11:56:48.771Z",
           "subtotal": 280,
           "discount": 20
+        },
+        {
+          "productName": "RAMPS 1.4 Reprap 3D Printer Arduino Mega Shield",
+          "quantity": 2,
+          "date": "2024-02-03T11:58:22.122Z",
+          "subtotal": 300,
+          "productPrice": "160",
+          "discount": 20
         }
       ],
       "printServices": [
