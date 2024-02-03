@@ -32,6 +32,13 @@
           "quantity": 1,
           "date": "2024-02-03T10:39:22.213Z"
         }
+      ],
+      "printServices": [
+        {
+          "productName": " i.materialise 3D Printing",
+          "quantity": 1,
+          "date": "2024-02-03T10:45:08.653Z"
+        }
       ]
     }
   },
