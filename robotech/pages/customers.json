@@ -52,6 +52,12 @@
           "subtotal": 29,
           "piecePrice": "30",
           "discount": 1
+        },
+        {
+          "productName": "",
+          "quantity": 1,
+          "date": "",
+          "subtotal": null
         }
       ],
       "courses": [
