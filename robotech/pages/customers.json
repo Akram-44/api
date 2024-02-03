@@ -3,7 +3,17 @@
     "id": "057dee44-5f8b-4dcf-997d-e8fd8e0717ad",
     "fullName": "Ali Ashraf Abdelbasir Mohamed",
     "phone": "01158541832",
-    "transactions": {}
+    "transactions": {
+      "products": [
+        {
+          "productName": "NANO CNC Shield V4",
+          "quantity": 1,
+          "date": "2024-02-03T13:01:44.200Z",
+          "subtotal": null,
+          "piecePrice": "120"
+        }
+      ]
+    }
   },
   {
     "id": "aca8d2c7-5ebe-4e68-93d2-15bd30c6ebe1",
