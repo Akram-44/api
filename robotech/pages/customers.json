@@ -13,6 +13,10 @@
           {
             "productName": "JavaScript Monster",
             "quantity": 4
+          },
+          {
+            "productName": "JavaScript Monster",
+            "quantity": 1
           }
         ],
         "amount": 0
@@ -26,6 +30,44 @@
           {
             "productName": "JavaScript Monster",
             "quantity": 4
+          },
+          {
+            "productName": "JavaScript Monster",
+            "quantity": 1
+          }
+        ],
+        "amount": 0
+      },
+      {
+        "courses": [
+          {
+            "productName": "JavaScript Monster",
+            "quantity": 10
+          },
+          {
+            "productName": "JavaScript Monster",
+            "quantity": 4
+          },
+          {
+            "productName": "JavaScript Monster",
+            "quantity": 1
+          }
+        ],
+        "amount": 0
+      },
+      {
+        "courses": [
+          {
+            "productName": "JavaScript Monster",
+            "quantity": 10
+          },
+          {
+            "productName": "JavaScript Monster",
+            "quantity": 4
+          },
+          {
+            "productName": "JavaScript Monster",
+            "quantity": 1
           }
         ],
         "amount": 0
