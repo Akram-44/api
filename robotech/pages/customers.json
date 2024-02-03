@@ -3,7 +3,15 @@
     "id": "c2a81ee0-01c8-447d-a61c-a6e273df6a3b",
     "fullName": "Ali Mohamed",
     "phone": "1152684108",
-    "transactions": {}
+    "transactions": {
+      "courses": [
+        {
+          "productName": "JavaScript Monster",
+          "quantity": 1,
+          "date": "2024-02-03T10:23:47.284Z"
+        }
+      ]
+    }
   },
   {
     "id": "2a2d28ee-c57a-4449-93ab-3598d543fed7",
