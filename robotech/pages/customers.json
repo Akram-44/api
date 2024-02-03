@@ -122,6 +122,16 @@
           "subtotal": 290,
           "piecePrice": "300"
         }
+      ],
+      "printServices": [
+        {
+          "productName": "new",
+          "quantity": 1,
+          "date": "Sat, Feb 03, 2024, 11:54 PM",
+          "discount": 0,
+          "subtotal": 50,
+          "piecePrice": "50"
+        }
       ]
     }
   }
