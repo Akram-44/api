@@ -15,6 +15,13 @@
           "quantity": 4,
           "date": "2024-02-03T10:23:47.284Z"
         }
+      ],
+      "products": [
+        {
+          "productName": "L293 Motor Driver Shield",
+          "quantity": 1,
+          "date": "2024-02-03T10:38:37.358Z"
+        }
       ]
     }
   },
