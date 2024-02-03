@@ -58,6 +58,13 @@
           "date": "2024-02-03T21:30:42.604Z",
           "subtotal": 4000,
           "piecePrice": "1000"
+        },
+        {
+          "productName": "JavaScript Monster",
+          "quantity": 7,
+          "date": "2024-02-03T21:32:56.974Z",
+          "subtotal": 7000,
+          "piecePrice": "1000"
         }
       ],
       "products": [
