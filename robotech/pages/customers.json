@@ -16,7 +16,7 @@
     "age": "22",
     "address": "Sayed Abdelatif street",
     "faculty": "Faculty of science",
-    "total_purchase_transactions": 40,
+    "total_purchase_transactions": 940,
     "transactions": {
       "products": [
         {
@@ -26,6 +26,16 @@
           "discount": 10,
           "subtotal": 40,
           "piecePrice": "50"
+        }
+      ],
+      "courses": [
+        {
+          "productName": "JavaScript Monster",
+          "quantity": 1,
+          "date": "Sun, Feb 04, 2024, 03:04 PM",
+          "discount": 100,
+          "subtotal": 900,
+          "piecePrice": "1000"
         }
       ]
     }
