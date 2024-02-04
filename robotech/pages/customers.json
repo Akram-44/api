@@ -6,8 +6,19 @@
     "age": "56",
     "address": "Sayed Abdelatif street",
     "faculty": "Faculty of science",
-    "total_purchase_transactions": 0,
-    "transactions": {}
+    "total_purchase_transactions": 150,
+    "transactions": {
+      "products": [
+        {
+          "productName": "UNO CNC Shield V3 Engraving Machine",
+          "quantity": 1,
+          "date": "Sun, Feb 04, 2024, 03:05 PM",
+          "discount": 0,
+          "subtotal": 150,
+          "piecePrice": "150"
+        }
+      ]
+    }
   },
   {
     "id": "d25f0596-c2a4-46ce-820f-d0f34f851b02",
