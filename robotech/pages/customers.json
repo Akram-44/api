@@ -157,8 +157,18 @@
           "subtotal": 50,
           "piecePrice": "50"
         }
+      ],
+      "printServices": [
+        {
+          "productName": " i.materialise 3D Printing",
+          "quantity": 1,
+          "date": "Sun, Feb 04, 2024, 03:00 PM",
+          "discount": 0,
+          "subtotal": 15,
+          "piecePrice": "15"
+        }
       ]
     },
-    "total_purchase_transactions": 750
+    "total_purchase_transactions": 765
   }
 ]
