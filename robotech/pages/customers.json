@@ -148,9 +148,17 @@
           "discount": 0,
           "subtotal": 240,
           "piecePrice": "60"
+        },
+        {
+          "productName": "Mechanical Endstop A with 70cm Cable and Retail Package",
+          "quantity": 1,
+          "date": "Sun, Feb 04, 2024, 02:57 PM",
+          "discount": 0,
+          "subtotal": 50,
+          "piecePrice": "50"
         }
       ]
     },
-    "total_purchase_transactions": null
+    "total_purchase_transactions": 750
   }
 ]
