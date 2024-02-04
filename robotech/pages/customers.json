@@ -91,27 +91,6 @@
     }
   },
   {
-    "id": "f65f1c56-c439-48cc-878f-3a58745d28a4",
-    "fullName": "ibrahem youssef",
-    "phone": "01158541832",
-    "age": "22",
-    "address": "",
-    "faculty": "",
-    "transactions": {
-      "products": [
-        {
-          "productName": "UNO CNC Shield V3 Engraving Machine",
-          "quantity": 1,
-          "date": "Sun, Feb 04, 2024, 03:02 PM",
-          "discount": 0,
-          "subtotal": 150,
-          "piecePrice": "150"
-        }
-      ]
-    },
-    "total_purchase_transactions": null
-  },
-  {
     "id": "275c268e-4fc8-4284-ba00-9b2383768a13",
     "fullName": "Mona Hussesnin abass huss",
     "phone": "01111531680",
