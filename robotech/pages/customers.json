@@ -48,6 +48,14 @@
           "discount": 0,
           "subtotal": 150,
           "piecePrice": "150"
+        },
+        {
+          "productName": "IR Infrared Obstacle Avoidance Tracking Sensor",
+          "quantity": 1,
+          "date": "Sun, Feb 04, 2024, 09:30 AM",
+          "discount": 0,
+          "subtotal": 40,
+          "piecePrice": "40"
         }
       ],
       "printServices": [
