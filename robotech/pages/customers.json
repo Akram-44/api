@@ -8,5 +8,15 @@
     "faculty": "Faculty of science",
     "total_purchase_transactions": 0,
     "transactions": {}
+  },
+  {
+    "id": "d25f0596-c2a4-46ce-820f-d0f34f851b02",
+    "fullName": "Ali Ashraf Abdelbasir Mohamed",
+    "phone": "01158541832",
+    "age": "22",
+    "address": "Sayed Abdelatif street",
+    "faculty": "Faculty of science",
+    "total_purchase_transactions": 0,
+    "transactions": {}
   }
 ]
