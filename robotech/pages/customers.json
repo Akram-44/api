@@ -16,7 +16,18 @@
     "age": "22",
     "address": "Sayed Abdelatif street",
     "faculty": "Faculty of science",
-    "total_purchase_transactions": 0,
-    "transactions": {}
+    "total_purchase_transactions": 40,
+    "transactions": {
+      "products": [
+        {
+          "productName": "Mechanical Endstop A with 70cm Cable and Retail Package",
+          "quantity": 1,
+          "date": "Sun, Feb 04, 2024, 03:04 PM",
+          "discount": 10,
+          "subtotal": 40,
+          "piecePrice": "50"
+        }
+      ]
+    }
   }
 ]
