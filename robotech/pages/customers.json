@@ -132,6 +132,14 @@
           "discount": 0,
           "subtotal": 160,
           "piecePrice": "160"
+        },
+        {
+          "productName": "UNO CNC Shield V3 Engraving Machine",
+          "quantity": 1,
+          "date": "Sun, Feb 04, 2024, 02:51 PM",
+          "discount": 0,
+          "subtotal": 150,
+          "piecePrice": "150"
         }
       ]
     }
