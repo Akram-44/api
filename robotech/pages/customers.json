@@ -140,8 +140,17 @@
           "discount": 0,
           "subtotal": 150,
           "piecePrice": "150"
+        },
+        {
+          "productName": "Robot Car Wheel Tyre (65mm) with DC Gear Motor",
+          "quantity": 4,
+          "date": "Sun, Feb 04, 2024, 02:53 PM",
+          "discount": 0,
+          "subtotal": 240,
+          "piecePrice": "60"
         }
       ]
-    }
+    },
+    "total_purchase_transactions": null
   }
 ]
