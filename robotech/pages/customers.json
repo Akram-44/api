@@ -16,7 +16,7 @@
     "age": "22",
     "address": "Sayed Abdelatif street",
     "faculty": "Faculty of science",
-    "total_purchase_transactions": 940,
+    "total_purchase_transactions": 965,
     "transactions": {
       "products": [
         {
@@ -36,6 +36,16 @@
           "discount": 100,
           "subtotal": 900,
           "piecePrice": "1000"
+        }
+      ],
+      "printServices": [
+        {
+          "productName": "Sculpteo 3D Printing Service",
+          "quantity": 1,
+          "date": "Sun, Feb 04, 2024, 03:04 PM",
+          "discount": 5,
+          "subtotal": 25,
+          "piecePrice": "30"
         }
       ]
     }
