@@ -96,5 +96,19 @@
         }
       ]
     }
+  },
+  {
+    "id": "b424c053-c1ab-4830-a283-7c8ea8581e03",
+    "fullName": "Sayed Mohamed Gaber",
+    "phone": "01054745842",
+    "age": "20",
+    "address": "الزراعيين بني سويف بجوار كده رضا",
+    "faculty": "",
+    "total_purchase_transactions": 0,
+    "transactions": {
+      "products": [],
+      "courses": [],
+      "printServices": []
+    }
   }
 ]
