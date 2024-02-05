@@ -104,7 +104,19 @@
     "age": "20",
     "address": "شرق النيل",
     "faculty": "",
-    "total_purchase_transactions": 0,
-    "transactions": {}
+    "total_purchase_transactions": 160,
+    "transactions": {
+      "courses": [],
+      "products": [
+        {
+          "productName": "RAMPS 1.4 Reprap 3D Printer Arduino Mega Shield",
+          "quantity": 1,
+          "date": "Mon, Feb 05, 2024, 10:14 AM",
+          "discount": 0,
+          "subtotal": 160,
+          "piecePrice": "160"
+        }
+      ]
+    }
   }
 ]
