@@ -110,5 +110,19 @@
       "courses": [],
       "printServices": []
     }
+  },
+  {
+    "id": "428b1d2d-f60d-4c06-b901-c5c7188f59c0",
+    "fullName": "Sayed Mohamed Gaber Ali",
+    "phone": "01054745842",
+    "age": "20",
+    "address": "الزراعيين بني سويف بجوار كده رضا",
+    "faculty": "",
+    "total_purchase_transactions": 0,
+    "transactions": {
+      "products": [],
+      "courses": [],
+      "printServices": []
+    }
   }
 ]
