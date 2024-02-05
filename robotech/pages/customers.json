@@ -96,27 +96,5 @@
         }
       ]
     }
-  },
-  {
-    "id": "54109dc8-d3fc-44a1-9597-9759efafb231",
-    "fullName": "Sayed MOhamed gaber",
-    "phone": "01142575423",
-    "age": "20",
-    "address": "شرق النيل",
-    "faculty": "",
-    "total_purchase_transactions": 160,
-    "transactions": {
-      "courses": [],
-      "products": [
-        {
-          "productName": "RAMPS 1.4 Reprap 3D Printer Arduino Mega Shield",
-          "quantity": 1,
-          "date": "Mon, Feb 05, 2024, 10:14 AM",
-          "discount": 0,
-          "subtotal": 160,
-          "piecePrice": "160"
-        }
-      ]
-    }
   }
 ]
