@@ -117,26 +117,5 @@
         }
       ]
     }
-  },
-  {
-    "id": "11a40052-4d7c-456a-8f47-b7fa35e9637f",
-    "fullName": "sayed ali",
-    "phone": "01145754842",
-    "age": "14",
-    "address": "شرق النيل",
-    "faculty": "",
-    "total_purchase_transactions": 160,
-    "transactions": {
-      "products": [
-        {
-          "productName": "RAMPS 1.4 Reprap 3D Printer Arduino Mega Shield",
-          "quantity": 1,
-          "date": "Mon, Feb 05, 2024, 10:02 AM",
-          "discount": 0,
-          "subtotal": 160,
-          "piecePrice": "160"
-        }
-      ]
-    }
   }
 ]
