@@ -104,9 +104,18 @@
     "age": "20",
     "address": "الزراعيين بني سويف بجوار كده رضا",
     "faculty": "",
-    "total_purchase_transactions": 0,
+    "total_purchase_transactions": 480,
     "transactions": {
-      "products": [],
+      "products": [
+        {
+          "productName": "RAMPS 1.4 Reprap 3D Printer Arduino Mega Shield",
+          "quantity": 3,
+          "date": "Mon, Feb 05, 2024, 05:26 PM",
+          "discount": 0,
+          "subtotal": 480,
+          "piecePrice": "160"
+        }
+      ],
       "courses": [],
       "printServices": []
     }
