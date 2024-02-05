@@ -117,5 +117,15 @@
         }
       ]
     }
+  },
+  {
+    "id": "11a40052-4d7c-456a-8f47-b7fa35e9637f",
+    "fullName": "sayed ali",
+    "phone": "01145754842",
+    "age": "14",
+    "address": "شرق النيل",
+    "faculty": "",
+    "total_purchase_transactions": 0,
+    "transactions": {}
   }
 ]
