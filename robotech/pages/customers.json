@@ -104,7 +104,18 @@
     "age": "22",
     "address": "Sayed Abdelatif street",
     "faculty": "el-nahda",
-    "total_purchase_transactions": 0,
-    "transactions": {}
+    "total_purchase_transactions": 30,
+    "transactions": {
+      "printServices": [
+        {
+          "productName": "Sculpteo 3D Printing Service",
+          "quantity": 1,
+          "date": "Mon, Feb 05, 2024, 09:53 AM",
+          "discount": 0,
+          "subtotal": 30,
+          "piecePrice": "30"
+        }
+      ]
+    }
   }
 ]
