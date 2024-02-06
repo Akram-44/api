@@ -155,9 +155,18 @@
     "age": "20",
     "address": "Sayed Abdelatif street",
     "faculty": "",
-    "total_purchase_transactions": 0,
+    "total_purchase_transactions": 1440,
     "transactions": {
-      "products": [],
+      "products": [
+        {
+          "productName": "RAMPS 1.4 Reprap 3D Printer Arduino Mega Shield",
+          "quantity": 9,
+          "date": "Tue, Feb 06, 2024, 11:04 AM",
+          "discount": 0,
+          "subtotal": 1440,
+          "piecePrice": "160"
+        }
+      ],
       "courses": [],
       "printServices": []
     }
