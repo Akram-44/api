@@ -24,5 +24,18 @@
     "brand": "Model printing",
     "quantity": 1,
     "count": "30"
+  },
+  {
+    "id": "040abe08-3225-4587-952b-4c14df065188",
+    "title": "Fused Deposition Modeling (FDM)",
+    "price": "30",
+    "previousPrice": 0,
+    "description": "FDM is one of the most common 3D printing technologies. It works by heating and extruding thermoplastic filament layer by layer to create the desired object. This method is widely used for rapid prototyping and desktop 3D printing.",
+    "image1": "https://media4.giphy.com/media/Zi61LwmjqvqerXlKFN/giphy.gif?cid=790b7611r144yo2z03h8knhhn4vh97bz5hb0xwi6seakm7no&ep=v1_gifs_search&rid=giphy.gif&ct=s",
+    "image2": "",
+    "image3": "",
+    "brand": "FDM ",
+    "quantity": 1,
+    "count": "30"
   }
 ]
