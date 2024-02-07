@@ -1,18 +1,5 @@
 [
   {
-    "id": "754",
-    "title": "Sculpteo 3D Printing Service",
-    "price": "30",
-    "previousPrice": 0,
-    "description": "Sculpteo offers a versatile 3D printing service with a range of materials, including plastics, metals, and ceramics. They provide an online platform for easy file uploading and customization, making it suitable for both individuals and businesses.",
-    "image1": "https://cdnb.artstation.com/p/assets/images/images/012/644/713/original/jakub-kusyk-druk-3d-cv-animacja.gif?1535803711",
-    "image2": "",
-    "image3": "",
-    "brand": "Model printing",
-    "quantity": 1,
-    "count": "30"
-  },
-  {
     "id": "040abe08-3225-4587-952b-4c14df065188",
     "title": "Fused Deposition Modeling (FDM)",
     "price": "30",
