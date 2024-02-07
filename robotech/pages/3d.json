@@ -1,18 +1,5 @@
 [
   {
-    "id": "543",
-    "title": " i.materialise 3D Printing",
-    "price": "15",
-    "previousPrice": 0,
-    "description": "i.materialise provides a user-friendly platform for 3D printing services. They support a variety of materials, such as plastics, metals, and resins. The service is suitable for both professional and hobbyist projects.",
-    "image1": "https://media4.giphy.com/media/Zi61LwmjqvqerXlKFN/giphy.gif?cid=790b7611r144yo2z03h8knhhn4vh97bz5hb0xwi6seakm7no&ep=v1_gifs_search&rid=giphy.gif&ct=s",
-    "image2": "",
-    "image3": "",
-    "brand": "prototypal print",
-    "quantity": 1,
-    "count": "15"
-  },
-  {
     "id": "754",
     "title": "Sculpteo 3D Printing Service",
     "price": "30",
