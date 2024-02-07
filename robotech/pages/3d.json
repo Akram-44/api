@@ -1,18 +1,5 @@
 [
   {
-    "id": "23",
-    "title": "Shapeways 3D Printing Service",
-    "price": "10",
-    "previousPrice": 0,
-    "description": "Shapeways 3D Printing Service Shapeways 3D Printing Service Shapeways 3D Printing Service",
-    "image1": "https://static.wixstatic.com/media/c36501_ebaf95f9dca84638a3185a80cef641ee~mv2.gif",
-    "image2": "",
-    "image3": "",
-    "brand": "printing",
-    "quantity": 1,
-    "count": "10"
-  },
-  {
     "id": "543",
     "title": " i.materialise 3D Printing",
     "price": "15",
