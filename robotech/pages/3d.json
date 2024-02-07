@@ -24,5 +24,18 @@
     "brand": "FDM ",
     "quantity": 1,
     "count": "30"
+  },
+  {
+    "id": "0693dcce-0b9b-45db-9a65-8c21c9927a64",
+    "title": "Stereolithography (SLA)",
+    "price": "40",
+    "previousPrice": 0,
+    "description": "SLA uses a UV laser to solidify liquid resin layer by layer to create the object. It offers high-resolution printing and is commonly used in applications where high detail and smooth surface finish are required.",
+    "image1": "https://cdnb.artstation.com/p/assets/images/images/012/644/713/original/jakub-kusyk-druk-3d-cv-animacja.gif?1535803711",
+    "image2": "",
+    "image3": "",
+    "brand": "SLA",
+    "quantity": 1,
+    "count": "40"
   }
 ]
