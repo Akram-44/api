@@ -96,7 +96,7 @@
         "title": "Akram test",
         "price": "500000",
         "previousPrice": "600000",
-        "description": "This description:\n- Should \n- Goes\n- in \n- Multiple \n- Lines",
+        "description": "this description part should not wrapped in bulletes wherease This description:- Should - Goes- in - Multiple - Lines",
         "count": 1,
         "image1": "testtttt",
         "image2": "",
