@@ -6,7 +6,7 @@
     "age": "22",
     "address": "Sayed Abdelatif street",
     "faculty": "Faculty of science",
-    "total_purchase_transactions": 4865,
+    "total_purchase_transactions": 5005,
     "transactions": {
       "products": [
         {
@@ -16,6 +16,14 @@
           "discount": 10,
           "subtotal": 40,
           "piecePrice": "50"
+        },
+        {
+          "productName": "NANO CNC Shield V4",
+          "quantity": 1,
+          "date": "Thu, Feb 08, 2024, 04:16 PM",
+          "discount": 20,
+          "subtotal": 100,
+          "piecePrice": "120"
         }
       ],
       "courses": [
