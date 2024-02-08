@@ -90,20 +90,6 @@
         "isNew": false,
         "quantity": 1,
         "category": "cnc & 3d printer parts"
-      },
-      {
-        "id": "521cb241-ff45-474f-82fd-542ef9377168",
-        "title": "Akram test",
-        "price": "500000",
-        "previousPrice": "600000",
-        "description": "this description part should not wrapped in bulletes wherease This description: | Should | Goes | in | Multiple | Lines",
-        "count": 1,
-        "image1": "testtttt",
-        "image2": "",
-        "image3": "",
-        "isNew": false,
-        "quantity": 1,
-        "category": "cnc & 3d printer parts"
       }
     ],
     "arduino boards": [
