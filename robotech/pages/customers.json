@@ -102,7 +102,7 @@
     "age": "20",
     "address": "الزراعيين بني سويف بجوار كده رضا",
     "faculty": "",
-    "total_purchase_transactions": 6430,
+    "total_purchase_transactions": 8180,
     "transactions": {
       "products": [
         {
@@ -165,6 +165,14 @@
           "productName": "RAMPS LCD 128×64 Smart LCD Controller with SD Card Interface – for 3D Printers",
           "quantity": 1,
           "date": "Thu, Feb 08, 2024, 11:41 PM",
+          "discount": 0,
+          "subtotal": 450,
+          "piecePrice": "450"
+        },
+        {
+          "productName": "RAMPS LCD 128×64 Smart LCD Controller with SD Card Interface – for 3D Printers",
+          "quantity": 1,
+          "date": "Thu, Feb 08, 2024, 11:42 PM",
           "discount": 0,
           "subtotal": 450,
           "piecePrice": "450"
