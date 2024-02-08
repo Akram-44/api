@@ -6,7 +6,7 @@
     "age": "22",
     "address": "Sayed Abdelatif street",
     "faculty": "Faculty of science",
-    "total_purchase_transactions": 5005,
+    "total_purchase_transactions": 5195,
     "transactions": {
       "products": [
         {
@@ -24,6 +24,14 @@
           "discount": 20,
           "subtotal": 100,
           "piecePrice": "120"
+        },
+        {
+          "productName": "DHT11 Digital Humidity & Temperature Sensor Module",
+          "quantity": 1,
+          "date": "Thu, Feb 08, 2024, 04:34 PM",
+          "discount": 20,
+          "subtotal": 50,
+          "piecePrice": "70"
         }
       ],
       "courses": [
