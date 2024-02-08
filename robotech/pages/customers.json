@@ -102,7 +102,7 @@
     "age": "20",
     "address": "الزراعيين بني سويف بجوار كده رضا",
     "faculty": "",
-    "total_purchase_transactions": 4280,
+    "total_purchase_transactions": 5130,
     "transactions": {
       "products": [
         {
@@ -152,6 +152,14 @@
           "discount": 0,
           "subtotal": 50,
           "piecePrice": "50"
+        },
+        {
+          "productName": "Optical Endstop with 50cm Cable and Retail Package",
+          "quantity": 1,
+          "date": "Thu, Feb 08, 2024, 11:41 PM",
+          "discount": 0,
+          "subtotal": 30,
+          "piecePrice": "30"
         }
       ],
       "courses": [
