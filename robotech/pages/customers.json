@@ -102,7 +102,7 @@
     "age": "20",
     "address": "الزراعيين بني سويف بجوار كده رضا",
     "faculty": "",
-    "total_purchase_transactions": 16820,
+    "total_purchase_transactions": 21100,
     "transactions": {
       "products": [
         {
@@ -200,6 +200,14 @@
           "discount": 0,
           "subtotal": 900,
           "piecePrice": "900"
+        },
+        {
+          "productName": "ESP32-CAM OV2640 Camera V2.0",
+          "quantity": 1,
+          "date": "Thu, Feb 08, 2024, 11:45 PM",
+          "discount": 0,
+          "subtotal": 500,
+          "piecePrice": "500"
         }
       ],
       "courses": [
