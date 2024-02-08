@@ -102,7 +102,7 @@
     "age": "20",
     "address": "الزراعيين بني سويف بجوار كده رضا",
     "faculty": "",
-    "total_purchase_transactions": 2690,
+    "total_purchase_transactions": 3460,
     "transactions": {
       "products": [
         {
@@ -136,6 +136,14 @@
           "discount": 0,
           "subtotal": 250,
           "piecePrice": "50"
+        },
+        {
+          "productName": "IR Infrared Obstacle Avoidance Tracking Sensor",
+          "quantity": 1,
+          "date": "Thu, Feb 08, 2024, 11:36 PM",
+          "discount": 0,
+          "subtotal": 40,
+          "piecePrice": "40"
         }
       ],
       "courses": [
