@@ -71,7 +71,7 @@
     "age": "20",
     "address": "الزراعيين بني سويف بجوار كده رضا",
     "faculty": "",
-    "total_purchase_transactions": 480,
+    "total_purchase_transactions": 1010,
     "transactions": {
       "products": [
         {
@@ -81,6 +81,14 @@
           "discount": 0,
           "subtotal": 480,
           "piecePrice": "160"
+        },
+        {
+          "productName": "Mechanical Endstop A with 70cm Cable and Retail Package",
+          "quantity": 1,
+          "date": "Thu, Feb 08, 2024, 06:58 PM",
+          "discount": 0,
+          "subtotal": 50,
+          "piecePrice": "50"
         }
       ],
       "courses": [],
