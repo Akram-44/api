@@ -102,7 +102,7 @@
     "age": "20",
     "address": "الزراعيين بني سويف بجوار كده رضا",
     "faculty": "",
-    "total_purchase_transactions": 8180,
+    "total_purchase_transactions": 10160,
     "transactions": {
       "products": [
         {
@@ -176,6 +176,14 @@
           "discount": 0,
           "subtotal": 450,
           "piecePrice": "450"
+        },
+        {
+          "productName": "NodeMcu Lua V3 CH340 (ESP8266)",
+          "quantity": 1,
+          "date": "Thu, Feb 08, 2024, 11:43 PM",
+          "discount": 0,
+          "subtotal": 230,
+          "piecePrice": "230"
         }
       ],
       "courses": [
