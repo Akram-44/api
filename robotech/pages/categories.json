@@ -90,21 +90,6 @@
         "isNew": false,
         "quantity": 1,
         "category": "cnc & 3d printer parts"
-      },
-      {
-        "id": "dda21ba7-f05e-47f4-84b9-13cc4bc4bea4",
-        "title": "test",
-        "price": "200",
-        "previousPrice": "250",
-        "description": "this is a product with the following desctiptin | bullett 1 | bullet 2 |",
-        "count": 1,
-        "image1": "dsadf",
-        "image2": "",
-        "image3": "",
-        "externalLink": "https://chat.openai.com/c/becd88db-5ff4-4080-a930-e94b06e1a4b4",
-        "isNew": false,
-        "quantity": 1,
-        "category": "cnc & 3d printer parts"
       }
     ],
     "arduino boards": [
