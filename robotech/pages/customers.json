@@ -102,10 +102,19 @@
     "age": "20",
     "address": "الزراعيين بني سويف بجوار كده رضا",
     "faculty": "",
-    "total_purchase_transactions": 0,
+    "total_purchase_transactions": 1000,
     "transactions": {
       "products": [],
-      "courses": [],
+      "courses": [
+        {
+          "productName": "JavaScript Monster",
+          "quantity": 1,
+          "date": "Thu, Feb 08, 2024, 11:23 PM",
+          "discount": 0,
+          "subtotal": 1000,
+          "piecePrice": "1000"
+        }
+      ],
       "printServices": []
     }
   },
