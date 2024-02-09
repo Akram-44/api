@@ -313,7 +313,7 @@
     "age": "30",
     "address": "",
     "faculty": "",
-    "total_purchase_transactions": 1050,
+    "total_purchase_transactions": 6030,
     "transactions": {
       "products": [
         {
@@ -331,6 +331,14 @@
           "discount": 10,
           "subtotal": 90,
           "piecePrice": "50"
+        },
+        {
+          "productName": "Arduino Nano V3.0 CH340 Chip + Mini USB Cable",
+          "quantity": 18,
+          "date": "Fri, Feb 09, 2024, 06:24 PM",
+          "discount": 0,
+          "subtotal": 4410,
+          "piecePrice": "245"
         }
       ],
       "courses": [],
