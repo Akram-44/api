@@ -107,7 +107,8 @@
         "brand": "Arduino",
         "isNew": false,
         "quantity": 1,
-        "category": "arduino boards"
+        "category": "arduino boards",
+        "wholesalePrice": "270"
       },
       {
         "id": "3",
