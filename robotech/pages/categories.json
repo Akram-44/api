@@ -217,21 +217,6 @@
         "category": "motors & drives"
       },
       {
-        "id": "14",
-        "title": "A4988 Stepper Motor Driver (2A)",
-        "price": "85",
-        "previousPrice": "0",
-        "description": "A4988 Stepper Motor Driver (2A)",
-        "count": "9",
-        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/A4988.jpg",
-        "image2": "",
-        "image3": "",
-        "brand": "A4988 Stepper Motor Driver (2A)",
-        "isNew": false,
-        "quantity": 1,
-        "category": "motors & drives"
-      },
-      {
         "id": "15",
         "title": "L293 Motor Driver Shield",
         "price": "95",
