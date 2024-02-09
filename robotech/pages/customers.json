@@ -71,7 +71,7 @@
     "age": "20",
     "address": "الزراعيين بني سويف بجوار كده رضا",
     "faculty": "",
-    "total_purchase_transactions": 603047,
+    "total_purchase_transactions": 904316,
     "transactions": {
       "products": [
         {
@@ -110,6 +110,14 @@
           "discount": 0,
           "subtotal": 240,
           "piecePrice": "60"
+        },
+        {
+          "productName": "Stepper Motor (NEMA 17)",
+          "quantity": 1,
+          "date": "Fri, Feb 09, 2024, 06:21 PM",
+          "discount": 0,
+          "subtotal": 430,
+          "piecePrice": "430"
         }
       ],
       "courses": [],
