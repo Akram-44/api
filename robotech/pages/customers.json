@@ -6,9 +6,18 @@
     "age": "24",
     "address": "الجزيرة المرتفعه, مركز بنى سويف, بني سويف, مصر.",
     "faculty": "كليه علوم-قسم الجيولوجيا و الكيمياء",
-    "total_purchase_transactions": 0,
+    "total_purchase_transactions": 35,
     "transactions": {
-      "products": [],
+      "products": [
+        {
+          "productName": "A4988 Stepper Motor Driver (2A)",
+          "quantity": 1,
+          "date": "Fri, Feb 09, 2024, 07:53 PM",
+          "discount": 50,
+          "subtotal": 35,
+          "piecePrice": "85"
+        }
+      ],
       "courses": [],
       "printServices": []
     }
