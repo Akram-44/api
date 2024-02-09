@@ -71,7 +71,7 @@
     "age": "20",
     "address": "الزراعيين بني سويف بجوار كده رضا",
     "faculty": "",
-    "total_purchase_transactions": 1010,
+    "total_purchase_transactions": 1609,
     "transactions": {
       "products": [
         {
@@ -89,6 +89,13 @@
           "discount": 0,
           "subtotal": 50,
           "piecePrice": "50"
+        },
+        {
+          "quantity": 5,
+          "date": "Fri, Feb 09, 2024, 06:16 PM",
+          "discount": 6,
+          "subtotal": 69,
+          "piecePrice": "15"
         }
       ],
       "courses": [],
