@@ -102,7 +102,7 @@
     "age": "20",
     "address": "الزراعيين بني سويف بجوار كده رضا",
     "faculty": "",
-    "total_purchase_transactions": 21100,
+    "total_purchase_transactions": 25435,
     "transactions": {
       "products": [
         {
@@ -208,6 +208,14 @@
           "discount": 0,
           "subtotal": 500,
           "piecePrice": "500"
+        },
+        {
+          "productName": "PIR Motion Sensor (HC-SR501)",
+          "quantity": 1,
+          "date": "Fri, Feb 09, 2024, 10:43 AM",
+          "discount": 0,
+          "subtotal": 55,
+          "piecePrice": "55"
         }
       ],
       "courses": [
