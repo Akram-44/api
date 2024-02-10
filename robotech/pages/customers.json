@@ -45,9 +45,18 @@
     "age": "20",
     "address": "شرق النيل الحي الاول",
     "faculty": "هندسة - القاهرة",
-    "total_purchase_transactions": 0,
+    "total_purchase_transactions": 370,
     "transactions": {
-      "products": [],
+      "products": [
+        {
+          "productName": "Arduino Uno R3",
+          "quantity": 1,
+          "date": "Sat, Feb 10, 2024, 04:46 PM",
+          "discount": 5,
+          "subtotal": 370,
+          "piecePrice": "375"
+        }
+      ],
       "courses": [],
       "printServices": []
     }
