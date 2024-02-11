@@ -354,5 +354,19 @@
       "courses": [],
       "printServices": []
     }
+  },
+  {
+    "id": "bd04e5a4-44dd-4f51-a65d-735399825862",
+    "fullName": "صديق فتحي صديق",
+    "phone": "01113208891",
+    "age": "2023",
+    "address": "الجيزة ",
+    "faculty": "3(تيم) علوم الملاحة والفضاء",
+    "total_purchase_transactions": 0,
+    "transactions": {
+      "products": [],
+      "courses": [],
+      "printServices": []
+    }
   }
 ]
