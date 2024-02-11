@@ -242,5 +242,19 @@
       "courses": [],
       "printServices": []
     }
+  },
+  {
+    "id": "eb59a97e-2dc3-4bab-a5e9-cdad99f97770",
+    "fullName": "محمد جابر محمد",
+    "phone": "01228526710",
+    "age": "20",
+    "address": "بني سويف",
+    "faculty": "التكنولوجية الكورية",
+    "total_purchase_transactions": 0,
+    "transactions": {
+      "products": [],
+      "courses": [],
+      "printServices": []
+    }
   }
 ]
