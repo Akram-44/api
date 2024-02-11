@@ -6,7 +6,7 @@
     "age": "24",
     "address": "الجزيرة المرتفعه, مركز بنى سويف, بني سويف, مصر.",
     "faculty": "كليه علوم-قسم الجيولوجيا و الكيمياء",
-    "total_purchase_transactions": 650,
+    "total_purchase_transactions": 1205,
     "transactions": {
       "products": [
         {
@@ -32,6 +32,15 @@
           "discount": 0,
           "subtotal": 375,
           "piecePrice": "375"
+        },
+        {
+          "productName": "Robot Car Wheel Tyre (65mm) with DC Gear Motor",
+          "quantity": 1,
+          "date": "Sun, Feb 11, 2024, 07:10 PM",
+          "discount": 0,
+          "subtotal": 60,
+          "piecePrice": "60",
+          "wholesalePrice": 0
         }
       ],
       "courses": [],
