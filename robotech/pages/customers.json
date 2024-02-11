@@ -6,7 +6,7 @@
     "age": "24",
     "address": "الجزيرة المرتفعه, مركز بنى سويف, بني سويف, مصر.",
     "faculty": "كليه علوم-قسم الجيولوجيا و الكيمياء",
-    "total_purchase_transactions": 650,
+    "total_purchase_transactions": 1205,
     "transactions": {
       "products": [
         {
@@ -32,6 +32,15 @@
           "discount": 0,
           "subtotal": 375,
           "piecePrice": "375"
+        },
+        {
+          "productName": "Robot Car Wheel Tyre (65mm) with DC Gear Motor",
+          "quantity": 1,
+          "date": "Sun, Feb 11, 2024, 06:50 PM",
+          "discount": 0,
+          "subtotal": 60,
+          "piecePrice": "60",
+          "wholesalePrice": 0
         }
       ],
       "courses": [],
@@ -614,20 +623,6 @@
     "age": "2023",
     "address": "0",
     "faculty": "علوم الملاحة والفضاء 4 تيم",
-    "total_purchase_transactions": 0,
-    "transactions": {
-      "products": [],
-      "courses": [],
-      "printServices": []
-    }
-  },
-  {
-    "id": "37cd3b65-fcdd-4b95-921a-0ea0ae43992b",
-    "fullName": "زياد عبد الرازق ",
-    "phone": "01005648150",
-    "age": "2023",
-    "address": "0",
-    "faculty": "علوم الملاحة والفضاء 2 خاص تيم",
     "total_purchase_transactions": 0,
     "transactions": {
       "products": [],
