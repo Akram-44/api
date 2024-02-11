@@ -130,5 +130,19 @@
       "courses": [],
       "printServices": []
     }
+  },
+  {
+    "id": "ee41cc96-78a2-4795-adb6-e25d1e435fab",
+    "fullName": "مازن محمد سيد",
+    "phone": "01071241056",
+    "age": "20",
+    "address": "بنى سويف",
+    "faculty": "حاسبات مشروع تخرج",
+    "total_purchase_transactions": 0,
+    "transactions": {
+      "products": [],
+      "courses": [],
+      "printServices": []
+    }
   }
 ]
