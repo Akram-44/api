@@ -480,5 +480,19 @@
       "courses": [],
       "printServices": []
     }
+  },
+  {
+    "id": "ea70ec2b-497f-42b4-9ea8-511d537728cc",
+    "fullName": "مجدي فؤاد مجد خليل",
+    "phone": "01117609056",
+    "age": "2023",
+    "address": "0",
+    "faculty": "علوم الملاحة والفضاء 3 تيم",
+    "total_purchase_transactions": 0,
+    "transactions": {
+      "products": [],
+      "courses": [],
+      "printServices": []
+    }
   }
 ]
