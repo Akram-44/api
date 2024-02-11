@@ -260,7 +260,8 @@
         "brand": "Robot Car Wheel Tyre (65mm) with DC Gear Motor",
         "isNew": false,
         "quantity": 1,
-        "category": "motors & drives"
+        "category": "motors & drives",
+        "wholesalePrice": "10"
       },
       {
         "id": "18",
