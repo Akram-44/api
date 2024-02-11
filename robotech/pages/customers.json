@@ -60,5 +60,19 @@
       "courses": [],
       "printServices": []
     }
+  },
+  {
+    "id": "49b6f448-3d3d-4de9-8e0c-21b6bbafcc3f",
+    "fullName": "ادهم ناصر ابراهيم",
+    "phone": "01552170845",
+    "age": "20",
+    "address": "بني سويف",
+    "faculty": "حاسبات  مشروع تخرج",
+    "total_purchase_transactions": 0,
+    "transactions": {
+      "products": [],
+      "courses": [],
+      "printServices": []
+    }
   }
 ]
