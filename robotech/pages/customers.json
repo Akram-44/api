@@ -6,7 +6,7 @@
     "age": "24",
     "address": "الجزيرة المرتفعه, مركز بنى سويف, بني سويف, مصر.",
     "faculty": "كليه علوم-قسم الجيولوجيا و الكيمياء",
-    "total_purchase_transactions": 1195,
+    "total_purchase_transactions": 650,
     "transactions": {
       "products": [
         {
@@ -32,15 +32,6 @@
           "discount": 0,
           "subtotal": 375,
           "piecePrice": "375"
-        },
-        {
-          "productName": "Robot Smart Car DC Motor",
-          "quantity": 2,
-          "date": "Sun, Feb 11, 2024, 06:43 PM",
-          "discount": 10,
-          "subtotal": 50,
-          "piecePrice": "30",
-          "wholesalePrice": "10"
         }
       ],
       "courses": [],
@@ -567,6 +558,34 @@
     "age": "2023",
     "address": "0",
     "faculty": "علوم الملاحة والفضاء 1 خاص تيم",
+    "total_purchase_transactions": 0,
+    "transactions": {
+      "products": [],
+      "courses": [],
+      "printServices": []
+    }
+  },
+  {
+    "id": "108f3b48-ed1a-4e02-8503-d9e71b23a8fa",
+    "fullName": "منةالله محمد محمود",
+    "phone": "01004405691",
+    "age": "2023",
+    "address": "0",
+    "faculty": "علوم الملاحة والفضاء 4 تيم",
+    "total_purchase_transactions": 0,
+    "transactions": {
+      "products": [],
+      "courses": [],
+      "printServices": []
+    }
+  },
+  {
+    "id": "f48277cd-4085-43f2-b8a5-b22a3a73c799",
+    "fullName": "ندى هشام",
+    "phone": "01098269268",
+    "age": "2023",
+    "address": "0",
+    "faculty": "علوم الملاحة والفضاء4 تيم",
     "total_purchase_transactions": 0,
     "transactions": {
       "products": [],
