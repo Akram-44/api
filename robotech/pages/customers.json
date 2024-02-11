@@ -200,5 +200,19 @@
       "courses": [],
       "printServices": []
     }
+  },
+  {
+    "id": "ef34e3db-286c-4023-bc12-09d7b778c28e",
+    "fullName": "حازم أبو بكر",
+    "phone": "01122627105",
+    "age": "20",
+    "address": "بني سويف",
+    "faculty": "التكنولوجية الكورية",
+    "total_purchase_transactions": 0,
+    "transactions": {
+      "products": [],
+      "courses": [],
+      "printServices": []
+    }
   }
 ]
