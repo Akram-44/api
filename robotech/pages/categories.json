@@ -397,6 +397,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "motors & drives"
+      },
+      {
+        "id": "f99c7834-0def-40b5-86db-9608bdb80da6",
+        "title": "Robot Smart Car DC Motor",
+        "price": "35",
+        "previousPrice": "0",
+        "description": "Robot Smart Car DC Motor",
+        "count": "11",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/Robot-Smart-Car-DC-Motor.jpg",
+        "image2": "",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "motors & drives"
       }
     ],
     "displays ( lcd & 7-seg & led )": [
