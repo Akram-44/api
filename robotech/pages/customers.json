@@ -709,5 +709,19 @@
       "courses": [],
       "printServices": []
     }
+  },
+  {
+    "id": "63a39306-0f94-4bb6-a5a1-f4a664297d50",
+    "fullName": "احمد عاطف ",
+    "phone": "01033897416",
+    "age": "2024",
+    "address": "بني سويف ",
+    "faculty": "جاسبات جامعة النهضة ",
+    "total_purchase_transactions": 0,
+    "transactions": {
+      "products": [],
+      "courses": [],
+      "printServices": []
+    }
   }
 ]
