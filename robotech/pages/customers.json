@@ -719,7 +719,16 @@
     "faculty": "جاسبات جامعة النهضة ",
     "total_purchase_transactions": 0,
     "transactions": {
-      "products": [],
+      "products": [
+        {
+          "productName": "Small Stepper Motor Driver Board (ULN2003)",
+          "quantity": 1,
+          "date": "Mon, Feb 12, 2024, 05:59 PM",
+          "subtotal": 0,
+          "piecePrice": "40",
+          "wholesalePrice": 0
+        }
+      ],
       "courses": [],
       "printServices": []
     }
