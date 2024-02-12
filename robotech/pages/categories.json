@@ -214,6 +214,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "arduino boards"
+      },
+      {
+        "id": "ffb6961b-1c05-41f4-9a44-5546dcadc355",
+        "title": "NANO CNC Shield V4",
+        "price": "150",
+        "previousPrice": "0",
+        "description": "NANO CNC Shield V4",
+        "count": "2",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/NANO20CNC20Shield20V4.jpg",
+        "image2": "",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "arduino boards"
       }
     ],
     "motors & drives": [
