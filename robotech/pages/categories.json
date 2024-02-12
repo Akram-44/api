@@ -199,6 +199,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "arduino boards"
+      },
+      {
+        "id": "d950a2be-1803-4295-bc8e-22512c939865",
+        "title": "Raspberry Pi Pico W - WiFi",
+        "price": "850",
+        "previousPrice": "0",
+        "description": "Raspberry Pi Pico Designed by Raspberry Pi, RP2040 features a dual-core Arm Cortex-M0+ processor with 264KB internal RAM and support for up to 16MB of off-chip Flash. A wide range of flexible I/O options includes I2C, SPI, and — uniquely — Programmable I/O (PIO). \n\nThese support endless possible applications for this small and affordable package. RP2040 Designed by Raspberry Pi, RP2040 features a dual-core Arm Cortex-M0+ processor with 264KB internal RAM and support for up to 16MB of off-chip Flash. \n\nA wide range of flexible I/O options includes I2C, SPI, and — uniquely — Programmable I/O (PIO). These support endless possible applications for this small and affordable package.\n\nPi Pico W Specification:\n\nRP2040 microcontroller chip designed by Raspberry Pi in the United Kingdom\nDual-core Arm Cortex M0+ processor, flexible clock running up to 133 MHz\n264kB of SRAM, and 2MB of on-board Flash memory\nUSB 1.1 with device and host support\nLow-power sleep and dormant modes\nDrag-and-drop programming using mass storage over USB\n26 × multi-function GPIO pins\n2 × SPI, 2 × I2C, 2 × UART, 3 × 12-bit ADC, 16 × controllable PWM channels\nAccurate clock and timer on-chip\nTemperature sensor\nAccelerated floating-point libraries on-chip\n8 × Programmable I/O (PIO) state machines for custom peripheral support\nWireless (802.11n), Single-band (2.4 GHz)\nBluetooth 5.2 (support coming soon)\nWPA3\nSoft Access Point supporting up to 4 clients\nDimensions : 21mm(W) x 51.3mm(L) x 3.9mm(H)\nAlthough the Pi Pico’s new CYW43439 chip supports IEEE 802.11 b/g/n wireless LAN and Bluetooth 5.2 only wireless LAN is supported at launch. It is expected that Bluetooth support will be added soon. As with the original Pi Pico software development will be supported via MicroPython and C/C++. MicroPython will be updated first with support for C/C++ following afterward.",
+        "count": 1,
+        "image1": "https://www.ram-e-shop.com/web/image/product.product/8524/image_1024/%5BRPI.PICO.W%5D%20Raspberry%20Pi%20Pico%20W%20-%20WiFi?unique=d317ecc",
+        "image2": "https://www.ram-e-shop.com/web/image/product.image/2568/image_1024/Raspberry%20Pi%20Pico%20W%20-%20WiFi?unique=72608a6",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "arduino boards"
       }
     ],
     "motors & drives": [
