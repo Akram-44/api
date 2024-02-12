@@ -6,7 +6,7 @@
     "age": "24",
     "address": "الجزيرة المرتفعه, مركز بنى سويف, بني سويف, مصر.",
     "faculty": "كليه علوم-قسم الجيولوجيا و الكيمياء",
-    "total_purchase_transactions": 114,
+    "total_purchase_transactions": 5014,
     "transactions": {
       "products": [
         {
@@ -52,6 +52,15 @@
           "piecePrice": "1000",
           "wholesalePrice": 0,
           "subtotal": 900
+        },
+        {
+          "productName": "JavaScript Monster",
+          "quantity": 5,
+          "date": "Mon, Feb 12, 2024, 09:40 AM",
+          "discount": 1000,
+          "piecePrice": "1000",
+          "wholesalePrice": 0,
+          "subtotal": 4000
         }
       ],
       "printServices": [
