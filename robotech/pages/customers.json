@@ -735,6 +735,14 @@
           "subtotal": 0,
           "piecePrice": "95",
           "wholesalePrice": 0
+        },
+        {
+          "productName": "Small Stepper Motor (5Vdc,4-Phase)",
+          "quantity": 1,
+          "date": "Mon, Feb 12, 2024, 06:01 PM",
+          "subtotal": 0,
+          "piecePrice": "80",
+          "wholesalePrice": 0
         }
       ],
       "courses": [],
