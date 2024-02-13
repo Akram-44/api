@@ -896,6 +896,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "wires & cables"
+      },
+      {
+        "id": "cb42a81e-dbd6-470c-a580-cddafc4eaedd",
+        "title": "Battery Holder ( 2 x AA )",
+        "price": "30",
+        "previousPrice": "O",
+        "description": "Battery Holder ( 2 x AA )\n",
+        "count": "4",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/Battery-Holder-2-x-AA-.jpg",
+        "image2": "",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "wires & cables"
       }
     ],
     "sensors": [
