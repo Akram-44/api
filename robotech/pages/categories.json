@@ -259,6 +259,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "arduino boards"
+      },
+      {
+        "id": "96897daf-d6ae-47c6-a39a-139fff98ff8f",
+        "title": "PICkit 3 In-Circuit Debugger/Programmer",
+        "price": "1500",
+        "previousPrice": "0",
+        "description": "PICkit 3 In-Circuit Debugger/Programmer",
+        "count": 1,
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/PICKIT3.jpg",
+        "image2": "",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "arduino boards"
       }
     ],
     "motors & drives": [
