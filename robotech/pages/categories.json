@@ -926,6 +926,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "wires & cables"
+      },
+      {
+        "id": "e32150db-f69d-48dd-ac46-dbee7cc8c924",
+        "title": "PCB 9x7 cm2 Holes (PCB6)",
+        "price": "20",
+        "previousPrice": "O",
+        "description": "PCB 9x7 cm2 Holes (PCB6)",
+        "count": "4",
+        "image1": "https://www.ram-e-shop.com/web/image/product.template/5869/image_256/%5BPCB6.HOLES.9.5X7%5D%20PCB%209x7%20cm2%20Holes%20%28PCB6%29?unique=6a81919",
+        "image2": "",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "wires & cables"
       }
     ],
     "sensors": [
