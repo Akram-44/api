@@ -823,6 +823,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "sensors"
+      },
+      {
+        "id": "e1333c25-925f-4ebe-903a-26e9da0fce0c",
+        "title": "IR Infrared Obstacle Avoidance Tracking Sensor",
+        "price": "40",
+        "previousPrice": "0",
+        "description": "IR Infrared Obstacle Avoidance Tracking Sensor",
+        "count": 1,
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/IR-Infrared-Obstacle-Avoidance-Tracking-Sensor.jpg",
+        "image2": "",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "sensors"
       }
     ],
     "relay modules": [
