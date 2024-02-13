@@ -244,6 +244,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "arduino boards"
+      },
+      {
+        "id": "a193d774-e7f9-42a1-871a-52f234ddaf58",
+        "title": "PIC16F877A-I/P",
+        "price": "230",
+        "previousPrice": "0",
+        "description": "2 PWM 10-bit\n256 Bytes EEPROM data memory\nICD\n25mA sink/source per I/O\nSelf Programming\nParallel Slave Port",
+        "count": 1,
+        "image1": "https://www.ram-e-shop.com/web/image/product.product/5874/image_1024/%5BPIC16F877A.IP%5D%20PIC16F877A-I-P?unique=7dfd4d6",
+        "image2": "",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "arduino boards"
       }
     ],
     "motors & drives": [
