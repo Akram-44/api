@@ -838,6 +838,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "sensors"
+      },
+      {
+        "id": "d9951b7d-b1a3-40f0-8618-b601abe77e4c",
+        "title": "LDR ( 5mm )",
+        "price": "35",
+        "previousPrice": "0",
+        "description": "Light Dependence Resistor , Photoresistor 5537 ( 5mm )",
+        "count": 1,
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/LDR.jpg",
+        "image2": "",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "sensors"
       }
     ],
     "relay modules": [
