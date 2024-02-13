@@ -956,6 +956,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "wires & cables"
+      },
+      {
+        "id": "c0ab68b1-7d44-421b-8dfa-ba859cfcdf99",
+        "title": "Terminal block electrical wires (6mm)",
+        "price": "15",
+        "previousPrice": "0",
+        "description": "Terminal block electrical wires connector clips isolated on white copy space background. Electrician tools and equipment, cable.",
+        "count": "5",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/Terminal20block20electrical20wires.jpg",
+        "image2": "",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "wires & cables"
       }
     ],
     "sensors": [
