@@ -229,6 +229,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "arduino boards"
+      },
+      {
+        "id": "cbf7f144-0391-49f2-824d-46af4f4721b5",
+        "title": "ATMEGA16A-U",
+        "price": "290",
+        "previousPrice": "0",
+        "description": "Program Memory Type\tFlash\nProgram Memory Size (KB)\t16\nCPU Speed (MIPS/DMIPS)\t16\nData EEPROM (bytes)\t512\nTimers\t2 x 8-bit - 1 x 16-bit\nStand alone PWM\t4\nNumber of ADCs\t0\nDiff ADC Inputs\t7\nADC Channels\t8\nMax ADC Resolution (bits)\t10\nNumber of Comparators\t1\nTemp. Range Min.\t-40\nTemp. Range Max.\t85\nOperation Voltage Max.(V)\t5.5\nOperation Voltage Min.(V)\t2.7\nPin Count\t44\nLow Power\tNo\nI2C\t1 -I2C",
+        "count": 1,
+        "image1": "https://www.ram-e-shop.com/web/image/product.product/6346/image_1024/%5BATMEGA16%5D%20ATMEGA16A-U?unique=3e0bc8d",
+        "image2": "",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "arduino boards"
       }
     ],
     "motors & drives": [
