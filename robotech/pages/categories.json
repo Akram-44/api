@@ -941,6 +941,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "wires & cables"
+      },
+      {
+        "id": "39971750-dbae-4d82-8459-b72841835b93",
+        "title": "2 Pin PCB Screw Terminal Block Pitch 5mm (R.3)",
+        "price": "10",
+        "previousPrice": "0",
+        "description": "PCB Mount Screw Terminal:    \n\nModel: KF126-2P \npitch: 5.0mm\nBlock KF126-5.0-2P \nRated: 18A / 250V\nSolid/flexible wire: 26-14 AWG 2.5mm²\nYou can connect more than one together to create your required pin numbers (for example you can connect two pieces from it to create 4pin terminal block).",
+        "count": "3",
+        "image1": "https://www.ram-e-shop.com/web/image/product.product/5854/image_128/%5BR.3.ROSETA.2PIN.BIG%5D%202%20Pin%20PCB%20Screw%20Terminal%20Block%20Pitch%205mm%20%28R.3%29?unique=d900b6f",
+        "image2": "https://www.ram-e-shop.com/web/image/product.image/1774/image_128/2%20Pin%20PCB%20Screw%20Terminal%20Block%20Pitch%205mm%20%28R.3%29?unique=412c6c8",
+        "image3": "https://www.ram-e-shop.com/web/image/product.image/1749/image_128/2%20Pin%20PCB%20Screw%20Terminal%20Block%20Pitch%205mm%20%28R.3%29?unique=412c6c8",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "wires & cables"
       }
     ],
     "sensors": [
