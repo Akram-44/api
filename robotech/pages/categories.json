@@ -866,6 +866,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "wires & cables"
+      },
+      {
+        "id": "78388225-c9a4-4cd5-a3da-1531452ddc5b",
+        "title": "Battery Clip 9V + Standard 2.1mm DC Male Plug",
+        "price": "20",
+        "previousPrice": "0",
+        "description": "9V Battery clip with standard DC male plug & wire length is 10 cm. \n\nARDUINO Friendly (Connect 9V battery to your Arduino board)",
+        "count": "3",
+        "image1": "https://www.ram-e-shop.com/web/image/product.product/7191/image_1024/%5BWIRE.BT9.DC.JACK%5D%20Battery%20Clip%209V%20%2B%20Standard%202.1mm%20DC%20Male%20Plug?unique=540684d",
+        "image2": "",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "wires & cables"
       }
     ],
     "sensors": [
