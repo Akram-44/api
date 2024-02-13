@@ -579,6 +579,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "displays ( lcd & 7-seg & led )"
+      },
+      {
+        "id": "154d373a-e428-48ac-b970-6ca93d57e7cd",
+        "title": "1N4007 Silicon Diode",
+        "price": "2",
+        "previousPrice": "0",
+        "description": "Silicon Diode General Purpose 1N4007 with Max. peak reverse voltage 1000V & Average current 1A.\n\n",
+        "count": "500",
+        "image1": "https://www.ram-e-shop.com/web/image/product.product/5635/image_1024/%5B1N4007%5D%201N4007%20Silicon%20Diode?unique=58d4841",
+        "image2": "",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "displays ( lcd & 7-seg & led )"
       }
     ],
     "wires & cables": [
