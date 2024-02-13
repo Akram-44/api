@@ -883,6 +883,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "sensors"
+      },
+      {
+        "id": "87b35f0f-ca94-40a0-b9b5-1524fb6cb96f",
+        "title": "Soil Moisture Detection Humidity Sensor Module",
+        "price": "85",
+        "previousPrice": "0",
+        "description": "Soil Moisture Detection Humidity Sensor Module",
+        "count": "O",
+        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/Soil-Moisture-Detection-Humidity-Sensor-Module.jpeg",
+        "image2": "",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "sensors"
       }
     ],
     "relay modules": [
