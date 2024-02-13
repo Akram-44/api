@@ -881,6 +881,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "wires & cables"
+      },
+      {
+        "id": "d522195d-9634-4282-b886-671a09684ff4",
+        "title": "Battery Holder 1x18650",
+        "price": "20",
+        "previousPrice": "0",
+        "description": "High-quality plastic holder\nSmall size, easy to carry\nTakes 1 standard size 18650 batteries side by side to form a compact battery of 3.7V x 1 = 3.7V\nEmbossed polarity marks",
+        "count": "7",
+        "image1": "https://www.ram-e-shop.com/web/image/product.product/7380/image_1024/%5BBATTERY.HOLDER.18650X1%5D%20Battery%20Holder%201x18650?unique=9203a06",
+        "image2": "https://www.ram-e-shop.com/web/image/product.image/731/image_1024/Battery%20Holder%2018650%20x%201%20Cell?unique=0b20631",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "wires & cables"
       }
     ],
     "sensors": [
