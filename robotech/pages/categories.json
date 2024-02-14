@@ -941,6 +941,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "wires & cables"
+      },
+      {
+        "id": "9435c5ea-f1b3-493a-b18d-82614e409ff2",
+        "title": "Push Button 2pins (6x6x5mm)",
+        "price": "5",
+        "previousPrice": "0",
+        "description": "Push Button 2pins (6x6x5mm)",
+        "count": "21",
+        "image1": "https://lampatronics.com/wp-content/uploads/2022/02/s-l300-6.jpg",
+        "image2": "",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "wires & cables"
       }
     ],
     "sensors": [
