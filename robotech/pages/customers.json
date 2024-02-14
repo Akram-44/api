@@ -16,15 +16,6 @@
           "subtotal": 0,
           "piecePrice": "95",
           "wholesalePrice": 0
-        },
-        {
-          "productName": "UNO CNC Shield V3 Engraving Machine",
-          "quantity": 1,
-          "date": "Wed, Feb 14, 2024, 10:44 PM",
-          "discount": 0,
-          "subtotal": 180,
-          "piecePrice": 180,
-          "wholesalePrice": 0
         }
       ],
       "courses": [
@@ -52,72 +43,9 @@
           "date": "Wed, Feb 14, 2024, 10:06 PM",
           "piecePrice": "1000",
           "wholesalePrice": 0
-        },
-        {
-          "productName": "JavaScript Monster",
-          "quantity": 1,
-          "date": "Wed, Feb 14, 2024, 10:18 PM",
-          "piecePrice": "1000",
-          "wholesalePrice": 0
-        },
-        {
-          "productName": "JavaScript Monster",
-          "quantity": 1,
-          "date": "Wed, Feb 14, 2024, 10:20 PM",
-          "piecePrice": "1000",
-          "wholesalePrice": 0
-        },
-        {
-          "productName": "JavaScript Monster",
-          "quantity": 1,
-          "date": "Wed, Feb 14, 2024, 10:23 PM",
-          "piecePrice": "1000",
-          "wholesalePrice": 0
-        },
-        {
-          "productName": "JavaScript Monster",
-          "quantity": 1,
-          "date": "Wed, Feb 14, 2024, 10:25 PM",
-          "discount": null,
-          "piecePrice": 1000,
-          "wholesalePrice": 0
         }
       ],
-      "printServices": [
-        {
-          "productName": "Stereolithography (SLA)",
-          "quantity": 1,
-          "date": "Wed, Feb 14, 2024, 10:17 PM",
-          "piecePrice": "40",
-          "wholesalePrice": 0
-        },
-        {
-          "productName": "Stereolithography (SLA)",
-          "quantity": 1,
-          "date": "Wed, Feb 14, 2024, 10:34 PM",
-          "discount": null,
-          "piecePrice": 40,
-          "wholesalePrice": 0
-        },
-        {
-          "productName": "Stereolithography (SLA)",
-          "quantity": 1,
-          "date": "Wed, Feb 14, 2024, 10:36 PM",
-          "discount": 1,
-          "piecePrice": 40,
-          "wholesalePrice": 0,
-          "subtotal": 39
-        },
-        {
-          "productName": "Stereolithography (SLA)",
-          "quantity": 1,
-          "date": "Wed, Feb 14, 2024, 10:48 PM",
-          "discount": 0,
-          "piecePrice": 40,
-          "wholesalePrice": 0,
-          "subtotal": 40
-        }
-      ]
+      "printServices": []
     }
   },
   {
