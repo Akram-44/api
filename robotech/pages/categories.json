@@ -1123,6 +1123,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "sensors"
+      },
+      {
+        "id": "f6d22454-4165-4b1a-a363-adebd07e9c91",
+        "title": "Line Follower Sensor Module X1",
+        "price": "50",
+        "previousPrice": "0",
+        "description": "TCRT5000 Infrared Reflectance Sensor Obstacle Avoidance Module Tracing Sensor Tracing Module for Arduino Diy Kit TCRT5000 sensors continuously emit infrared emitting diodes, infrared rays are emitted when not being reflected back or reflected back but the strength is not big enough, and the phototransistor has been in a shutdown state, then the output modules is high, indicating diode remains off state\n\nWhen the object appears to be detected within the detection range the infrared is reflected back and the intensity is large enough, the phototransistor is saturated, and then the output of the module is low, indicating the diode is lit. \n\nApplications:\n\nLine follower robot\nmeter pulse data sampling\nobstacle detection\nblack and white line detection\nModule Features:\n\nusing infrared reflective sensor TCRT5000\ndetecting the reflected distance: 1mm ~ 25mm applicable\nthe comparator output signal is clean, good waveform driving ability of more than 15mA.\nwith multi-turn precision potentiometer adjustable sensitivity adjustment\nthe working voltage of 3.3V-5V\nthe output format: digital switching output (0 and 1)\na fixed bolt hole for easy installation\nsmall plates PCB size: 3.2cm x 1.4cm\nusing a wide voltage LM393 comparator",
+        "count": 1,
+        "image1": "https://www.ram-e-shop.com/web/image/product.product/7054/image_1024/%5BKIT.LINE.TRACK.X1%5D%20Line%20Follower%20Sensor%20Module%20X1?unique=33a2397",
+        "image2": "",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "sensors"
       }
     ],
     "relay modules": [
