@@ -8,7 +8,16 @@
     "faculty": "كليه علوم-قسم الجيولوجيا و الكيمياء",
     "total_purchase_transactions": 0,
     "transactions": {
-      "products": [],
+      "products": [
+        {
+          "productName": "PICkit 2 PIC Programmer",
+          "quantity": 1,
+          "date": "Wed, Feb 14, 2024, 09:47 PM",
+          "subtotal": 0,
+          "piecePrice": "900",
+          "wholesalePrice": 0
+        }
+      ],
       "courses": [
         {
           "productName": "JavaScript Monster",
