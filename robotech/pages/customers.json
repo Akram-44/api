@@ -10,14 +10,6 @@
     "transactions": {
       "products": [
         {
-          "productName": "L298 Motor Driver Module",
-          "quantity": 1,
-          "date": "Wed, Feb 14, 2024, 09:22 PM",
-          "subtotal": 0,
-          "piecePrice": "95",
-          "wholesalePrice": 0
-        },
-        {
           "productName": "NANO CNC Shield V4",
           "quantity": 1,
           "date": "Wed, Feb 14, 2024, 09:27 PM",
