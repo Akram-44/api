@@ -8,16 +8,7 @@
     "faculty": "كليه علوم-قسم الجيولوجيا و الكيمياء",
     "total_purchase_transactions": 0,
     "transactions": {
-      "products": [
-        {
-          "productName": "NANO CNC Shield V4",
-          "quantity": 1,
-          "date": "Wed, Feb 14, 2024, 09:27 PM",
-          "subtotal": 0,
-          "piecePrice": "150",
-          "wholesalePrice": 0
-        }
-      ],
+      "products": [],
       "courses": [
         {
           "productName": "JavaScript Monster",
