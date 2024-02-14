@@ -88,6 +88,14 @@
           "date": "Wed, Feb 14, 2024, 10:17 PM",
           "piecePrice": "40",
           "wholesalePrice": 0
+        },
+        {
+          "productName": "Stereolithography (SLA)",
+          "quantity": 1,
+          "date": "Wed, Feb 14, 2024, 10:34 PM",
+          "discount": null,
+          "piecePrice": 40,
+          "wholesalePrice": 0
         }
       ]
     }
