@@ -6,9 +6,19 @@
     "age": "24",
     "address": "الجزيرة المرتفعه, مركز بنى سويف, بني سويف, مصر.",
     "faculty": "كليه علوم-قسم الجيولوجيا و الكيمياء",
-    "total_purchase_transactions": 0,
+    "total_purchase_transactions": 180,
     "transactions": {
-      "products": [],
+      "products": [
+        {
+          "productName": "UNO CNC Shield V3 Engraving Machine",
+          "quantity": 1,
+          "date": "Wed, Feb 14, 2024, 08:57 PM",
+          "discount": 0,
+          "subtotal": 180,
+          "piecePrice": "180",
+          "wholesalePrice": 0
+        }
+      ],
       "courses": [
         {
           "productName": "JavaScript Monster",
