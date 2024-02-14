@@ -6,7 +6,7 @@
     "age": "24",
     "address": "الجزيرة المرتفعه, مركز بنى سويف, بني سويف, مصر.",
     "faculty": "كليه علوم-قسم الجيولوجيا و الكيمياء",
-    "total_purchase_transactions": 1080,
+    "total_purchase_transactions": 1620,
     "transactions": {
       "products": [
         {
@@ -34,6 +34,14 @@
           "discount": 0,
           "subtotal": 180,
           "piecePrice": "180",
+          "wholesalePrice": 0
+        },
+        {
+          "productName": "RAMPS 1.4 Reprap 3D Printer Arduino Mega Shield",
+          "quantity": 1,
+          "date": "Wed, Feb 14, 2024, 08:59 PM",
+          "subtotal": 0,
+          "piecePrice": "260",
           "wholesalePrice": 0
         }
       ],
