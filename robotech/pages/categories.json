@@ -971,6 +971,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "wires & cables"
+      },
+      {
+        "id": "77f8c4f8-bd32-4826-b83c-339fbe987c6a",
+        "title": "AC Switch ON/OFF",
+        "price": "10",
+        "previousPrice": "0",
+        "description": "AC Switch ON/OFF",
+        "count": 1,
+        "image1": "https://lampatronics.com/wp-content/uploads/2022/10/A419-600x780.jpg",
+        "image2": "",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "wires & cables"
       }
     ],
     "sensors": [
