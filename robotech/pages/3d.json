@@ -11,6 +11,7 @@
     "brand": "SLA",
     "quantity": 1,
     "externalLink": "https://youtu.be/RgECxaxUIb0?si=wgCnsImanYdMx1jc",
-    "colors": "red | green | orange"
+    "colors": "red | green | orange",
+    "unit": "Gram"
   }
 ]
