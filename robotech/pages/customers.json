@@ -8,7 +8,16 @@
     "faculty": "كليه علوم-قسم الجيولوجيا و الكيمياء",
     "total_purchase_transactions": 0,
     "transactions": {
-      "products": [],
+      "products": [
+        {
+          "productName": "L298 Motor Driver Module",
+          "quantity": 1,
+          "date": "Wed, Feb 14, 2024, 09:45 PM",
+          "subtotal": 0,
+          "piecePrice": "95",
+          "wholesalePrice": 0
+        }
+      ],
       "courses": [
         {
           "productName": "JavaScript Monster",
