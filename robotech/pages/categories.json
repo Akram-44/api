@@ -1110,21 +1110,6 @@
         "category": "sensors"
       },
       {
-        "id": "e49d04bc-2061-4f0a-af5f-390b2a83caa6",
-        "title": "LDR ( 5mm )",
-        "price": "10",
-        "previousPrice": "O",
-        "description": "Light Dependence Resistor , Photoresistor 5537 ( 5mm )",
-        "count": "0",
-        "image1": "https://free-electronic.com/wp-content/uploads/2022/02/LDR-2-300x300.jpg",
-        "image2": "",
-        "image3": "",
-        "externalLink": "",
-        "isNew": false,
-        "quantity": 1,
-        "category": "sensors"
-      },
-      {
         "id": "87b35f0f-ca94-40a0-b9b5-1524fb6cb96f",
         "title": "Soil Moisture Detection Humidity Sensor Module",
         "price": "85",
