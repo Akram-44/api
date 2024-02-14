@@ -64,6 +64,14 @@
           "date": "Wed, Feb 14, 2024, 10:23 PM",
           "piecePrice": "1000",
           "wholesalePrice": 0
+        },
+        {
+          "productName": "JavaScript Monster",
+          "quantity": 1,
+          "date": "Wed, Feb 14, 2024, 10:25 PM",
+          "discount": null,
+          "piecePrice": 1000,
+          "wholesalePrice": 0
         }
       ],
       "printServices": [
