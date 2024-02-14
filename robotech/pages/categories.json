@@ -956,6 +956,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "wires & cables"
+      },
+      {
+        "id": "5bda7a4d-0e32-4a41-ba3d-b001978cb0fe",
+        "title": "PushButton Switch 4Pin (12x12x6mm)",
+        "price": "5",
+        "previousPrice": "0",
+        "description": "PushButton Switch 4Pin (12x12x6mm)\n",
+        "count": "6",
+        "image1": "https://lampatronics.com/wp-content/uploads/2022/08/switch-6.png",
+        "image2": "",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "wires & cables"
       }
     ],
     "sensors": [
