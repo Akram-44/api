@@ -6,7 +6,7 @@
     "age": "24",
     "address": "الجزيرة المرتفعه, مركز بنى سويف, بني سويف, مصر.",
     "faculty": "كليه علوم-قسم الجيولوجيا و الكيمياء",
-    "total_purchase_transactions": 5549,
+    "total_purchase_transactions": 5124,
     "transactions": {
       "products": [
         {
@@ -24,23 +24,6 @@
           "discount": 5,
           "subtotal": 85,
           "piecePrice": "30"
-        },
-        {
-          "productName": "Arduino Uno R3",
-          "quantity": 1,
-          "date": "Sat, Feb 10, 2024, 03:47 PM",
-          "discount": 0,
-          "subtotal": 375,
-          "piecePrice": "375"
-        },
-        {
-          "productName": "Robot Smart Car DC Motor",
-          "quantity": 2,
-          "date": "Sun, Feb 11, 2024, 07:19 PM",
-          "discount": 10,
-          "subtotal": 50,
-          "piecePrice": "30",
-          "wholesalePrice": "10"
         }
       ],
       "courses": [
