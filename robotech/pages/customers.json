@@ -6,7 +6,7 @@
     "age": "24",
     "address": "الجزيرة المرتفعه, مركز بنى سويف, بني سويف, مصر.",
     "faculty": "كليه علوم-قسم الجيولوجيا و الكيمياء",
-    "total_purchase_transactions": -160,
+    "total_purchase_transactions": -280,
     "transactions": {
       "products": [
         {
@@ -63,7 +63,7 @@
           "discount": 0,
           "piecePrice": 40,
           "wholesalePrice": 0,
-          "isReturned": false,
+          "isReturned": true,
           "subtotal": 120
         }
       ]
