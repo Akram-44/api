@@ -10,14 +10,6 @@
     "transactions": {
       "products": [
         {
-          "productName": "MINI Aquarium Water Pump – In/Out Outlet R385 (12vdc)",
-          "quantity": 1,
-          "date": "Wed, Feb 14, 2024, 09:50 PM",
-          "subtotal": 0,
-          "piecePrice": "250",
-          "wholesalePrice": 0
-        },
-        {
           "productName": "L298 Motor Driver Module",
           "quantity": 1,
           "date": "Wed, Feb 14, 2024, 09:51 PM",
