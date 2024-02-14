@@ -6,7 +6,7 @@
     "age": "24",
     "address": "الجزيرة المرتفعه, مركز بنى سويف, بني سويف, مصر.",
     "faculty": "كليه علوم-قسم الجيولوجيا و الكيمياء",
-    "total_purchase_transactions": 680,
+    "total_purchase_transactions": 920,
     "transactions": {
       "products": [
         {
@@ -53,6 +53,16 @@
           "discount": 0,
           "piecePrice": 40,
           "wholesalePrice": 0,
+          "subtotal": 120
+        },
+        {
+          "productName": "Stereolithography (SLA)",
+          "quantity": 3,
+          "date": "Wed, Feb 14, 2024, 11:37 PM",
+          "discount": 0,
+          "piecePrice": 40,
+          "wholesalePrice": 0,
+          "isReturned": false,
           "subtotal": 120
         }
       ]
