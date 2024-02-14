@@ -32,15 +32,6 @@
       "printServices": [
         {
           "productName": "Stereolithography (SLA)",
-          "quantity": 2,
-          "date": "Mon, Feb 12, 2024, 09:40 AM",
-          "discount": 3,
-          "piecePrice": "40",
-          "wholesalePrice": 0,
-          "subtotal": 77
-        },
-        {
-          "productName": "Stereolithography (SLA)",
           "quantity": 1,
           "date": "Wed, Feb 14, 2024, 08:53 PM",
           "piecePrice": "40",
