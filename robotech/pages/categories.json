@@ -259,6 +259,21 @@
         "isNew": false,
         "quantity": 1,
         "category": "arduino boards"
+      },
+      {
+        "id": "5c5894b7-5755-4e9c-8658-3b884c6e74c2",
+        "title": "PICkit 2 PIC Programmer",
+        "price": "900",
+        "previousPrice": "0",
+        "description": "PICkit 2 programmer is a low-cost programming tool for Microchip PIC microcontrollers.",
+        "count": 1,
+        "image1": "https://fares-pcb.com/wp-content/uploads/2019/12/PIC-Kit2-Programmer1.jpg",
+        "image2": "",
+        "image3": "",
+        "externalLink": "",
+        "isNew": false,
+        "quantity": 1,
+        "category": "arduino boards"
       }
     ],
     "motors & drives": [
