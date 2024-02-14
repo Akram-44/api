@@ -6,7 +6,7 @@
     "age": "24",
     "address": "الجزيرة المرتفعه, مركز بنى سويف, بني سويف, مصر.",
     "faculty": "كليه علوم-قسم الجيولوجيا و الكيمياء",
-    "total_purchase_transactions": 5124,
+    "total_purchase_transactions": 5039,
     "transactions": {
       "products": [
         {
@@ -16,14 +16,6 @@
           "discount": 50,
           "subtotal": 35,
           "piecePrice": "85"
-        },
-        {
-          "productName": "Robot Smart Car DC Motor",
-          "quantity": 3,
-          "date": "Sat, Feb 10, 2024, 12:30 AM",
-          "discount": 5,
-          "subtotal": 85,
-          "piecePrice": "30"
         }
       ],
       "courses": [
