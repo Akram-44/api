@@ -6,19 +6,9 @@
     "age": "24",
     "address": "الجزيرة المرتفعه, مركز بنى سويف, بني سويف, مصر.",
     "faculty": "كليه علوم-قسم الجيولوجيا و الكيمياء",
-    "total_purchase_transactions": 304,
+    "total_purchase_transactions": 303,
     "transactions": {
       "products": [
-        {
-          "productName": "1N4148",
-          "quantity": 1,
-          "date": "Thu, Feb 15, 2024, 12:35 AM",
-          "discount": 0,
-          "subtotal": 1,
-          "piecePrice": 1,
-          "wholesalePrice": 0,
-          "isReturned": false
-        },
         {
           "productName": "test",
           "quantity": 1,
