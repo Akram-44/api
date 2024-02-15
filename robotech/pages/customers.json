@@ -8,18 +8,7 @@
     "faculty": "كليه علوم-قسم الجيولوجيا و الكيمياء",
     "total_purchase_transactions": 300,
     "transactions": {
-      "products": [
-        {
-          "productName": "test",
-          "quantity": 1,
-          "date": "Thu, Feb 15, 2024, 05:00 PM",
-          "discount": 0,
-          "subtotal": 100,
-          "piecePrice": 100,
-          "wholesalePrice": 0,
-          "isRefund": false
-        }
-      ],
+      "products": [],
       "courses": [],
       "printServices": []
     }
