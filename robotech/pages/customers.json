@@ -29,16 +29,6 @@
           "wholesalePrice": 0,
           "isReturned": false,
           "isRefund": true
-        },
-        {
-          "productName": "test",
-          "quantity": 1,
-          "date": "Thu, Feb 15, 2024, 02:58 PM",
-          "discount": 0,
-          "subtotal": 100,
-          "piecePrice": 100,
-          "wholesalePrice": 0,
-          "isRefund": false
         }
       ],
       "courses": [],
