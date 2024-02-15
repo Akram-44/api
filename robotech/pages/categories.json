@@ -1261,7 +1261,8 @@
         "externalLink": "test",
         "isNew": false,
         "quantity": 1,
-        "category": "test"
+        "category": "test",
+        "wholesalePrice": "88"
       }
     ]
   }
