@@ -1247,6 +1247,22 @@
         "category": "relay modules"
       }
     ],
-    "test": []
+    "test": [
+      {
+        "id": "2cc18a39-f397-4c85-8d3c-b019a21f4f97",
+        "title": "test",
+        "price": "100",
+        "previousPrice": "120",
+        "description": "test",
+        "count": "6",
+        "image1": "test",
+        "image2": "",
+        "image3": "",
+        "externalLink": "test",
+        "isNew": false,
+        "quantity": 1,
+        "category": "test"
+      }
+    ]
   }
 ]
