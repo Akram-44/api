@@ -13,10 +13,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Build project
-        run: |
-          # Add your build commands here
+      - name: Install dependencies
+        run: npm install
 
-      - name: Deploy
-        run: |
-          # Add your deployment commands here
+      - name: Build project
+        run: npm run build
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages # Specify the branch to deploy to
+          FOLDER: dist # Specify the folder containing the built files
